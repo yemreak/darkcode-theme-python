@@ -3,7 +3,7 @@
     "displayName": "DarkCode Theme Adopted Python and Markdown",
     "description": "Dark theme for python and markdown coders 👩‍💻",
     "version": "1.0.0",
-    "publisher": "yzane",
+    "publisher": "yedhrab",
     "engines": {
         "vscode": "^1.35.0"
     },
@@ -20,14 +20,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/yedhrab/darkcode-theme-adopted-python-and-markdown"
+        "url": "https://github.com/yedhrab/darkcode-theme"
     },
     "contributes": {
         "themes": [
             {
                 "label": "DarkCode Theme Adopted Python and Markdown",
                 "uiTheme": "vs-dark",
-                "path": "./themes/DarkCode Theme Adopted Python and Markdown-color-theme.json"
+                "path": "./themes/DarkCode Theme Adopted Python and Markdown.json"
             }
         ]
     }
