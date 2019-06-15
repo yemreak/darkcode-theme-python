@@ -1,0 +1,21 @@
+{
+    "name": "darkcode-theme-adopted-python-and-markdown",
+    "displayName": "DarkCode Theme Adopted Python and Markdown",
+    "description": "Dark theme for python and markdown coders 👩‍💻",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkCode Theme Adopted Python and Markdown",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkCode Theme Adopted Python and Markdown-color-theme.json"
+            }
+        ]
+    }
+}
