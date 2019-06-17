@@ -8,7 +8,7 @@
         "vscode": "^1.35.0"
     },
     "icon": "res/mdpy.png",
-    "license": "SEE LICENSE IN LICENSE.txt",
+    "license": "MIT",
     "categories": [
         "Themes"
     ],
