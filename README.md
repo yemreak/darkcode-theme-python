@@ -7,6 +7,12 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/yedhrab/DarkCode-Theme)](https://github.com/yedhrab/DarkCode-Theme/releases)
 
+## Preview
+
+![theme](./res/theme.png)
+
+## Focus
+
 Focused to:
 
 - Markdown 📑
@@ -14,8 +20,6 @@ Focused to:
 - Dark (of course) 🕶
 
 > 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)  
-
-![theme](./res/theme.png)
 
 ## TODOs
 
