@@ -7,9 +7,15 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/yedhrab/DarkCode-Theme)](https://github.com/yedhrab/DarkCode-Theme/releases)
 
-![theme](./res/theme.png)
+Focused to:
 
-> Inspired by [CodeSandbox Theme](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
+- Markdown 📑
+- Python 🐍
+- Dark (of course) 🕶
+
+> 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)  
+
+![theme](./res/theme.png)
 
 ## TODOs
 
