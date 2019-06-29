@@ -4,9 +4,6 @@
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 
-[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
-[![GitHub](https://flat.badgen.net/github/release/yedhrab/DarkCode-Theme)](https://github.com/yedhrab/DarkCode-Theme/releases)
-
 ## Preview
 
 ![theme](./res/theme.png)
