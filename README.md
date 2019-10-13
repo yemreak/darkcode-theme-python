@@ -1,4 +1,4 @@
-# DarkCode Theme Adopted Python and Markdown
+# ✨ DarkCode Theme Adopted Python and Markdown
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
@@ -8,7 +8,7 @@
 
 ![theme](./res/theme.png)
 
-## Focus
+## 🎯 Focus
 
 Focused to:
 
@@ -18,12 +18,7 @@ Focused to:
 
 > 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)  
 
-## TODOs
-
-- [ ] `string.quoted.docstring.multi.python` içerisindeki TODO, !, :, ? gibi alanlarda satırın rengi değiştirilecek
-- [ ] Better comment eklentisi ilave edilecek
-
-## Destek ve İletişim
+## 💖 Support & Contact
 
 [![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)][mail]
 [![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)][github]
