@@ -4,6 +4,8 @@
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 
+༼ つ ◕_◕ ༽つ DarkCode Theme for VsCode Adopted Python and Markdown 👨‍💻
+
 ## Preview
 
 ![theme](./res/theme.png)
