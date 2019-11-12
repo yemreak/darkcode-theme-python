@@ -6,19 +6,23 @@
 
 ༼ つ ◕_◕ ༽つ DarkCode Theme for VsCode Adopted Python and Markdown 👨‍💻
 
-## Preview
+## 👁‍🗨 Preview
+
+### 🚀 DarkCode
 
 ![theme](./res/theme.png)
 
-## 🎯 Focus
+### 🌑 Darkcode Contrast
 
-Focused to:
+![](res/contrast.png)
 
-- Markdown 📑
-- Python 🐍
-- Dark (of course) 🕶
+## 🎯 Focused
 
-> 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)  
+- 📑 Markdown
+- 🐍 Python
+- 🤓 Dark (of course)
+
+> 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
 
 ## 💖 Support & Contact
 
