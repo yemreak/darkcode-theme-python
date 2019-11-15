@@ -8,13 +8,21 @@
 
 ## 👁‍🗨 Preview
 
-### 🚀 DarkCode
+### 🌓 DarkCode
 
-![theme](./res/theme.png)
+![](res/theme.png)
+
+### 🌗 DarkCode+
+
+![](res/theme_plus.png)
 
 ### 🌑 Darkcode Contrast
 
 ![](res/contrast.png)
+
+### 🌒 DarkCode Contrast+
+
+![](res/contrast_plus.png)
 
 ## 🎯 Focused
 

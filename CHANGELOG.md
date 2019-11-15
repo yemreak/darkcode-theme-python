@@ -1,5 +1,9 @@
 # ✨ Changelog
 
+## 1.3.1
+
+- 🐞 Bug Fixed
+
 ## 1.3.0
 
 - 🚀 Plus themes added

@@ -147,7 +147,7 @@
         {
             "name": "[VSCODE-CUSTOM] Markdown headings",
             "scope": [
-                "entity.name.section.markdown",
+                "entity.name.section.markdown"
             ],
             "settings": {
                 "foreground": "#eaec74"
@@ -344,7 +344,7 @@
                 "markup.underline.link.image.markdown"
             ],
             "settings": {
-                "foreground": "#bbbbbb33"
+                "foreground": "#888a2652"
             }
         },
         {
@@ -365,7 +365,7 @@
                 "comment"
             ],
             "settings": {
-                "foreground": "#5C6370",
+                "foreground": "#7d8594",
                 "fontStyle": "italic"
             }
         },
