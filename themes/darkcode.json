@@ -1,5 +1,5 @@
 {
-	"name": "Markdown & Python Color Theme",
+	"name": "DarkCode",
 	"type": "dark",
 	"author": "yedhrab",
 	"colors": {
@@ -8,12 +8,14 @@
 		"button.background": "#40A9F3",
 		"button.hoverBackground": "#66B9F4",
 		"editor.background": "#1C2022",
+		"editor.selectionBackground": "#40a8f348",
 		"editorCursor.foreground": "#66b9f4",
 		"editorGroup.border": "#111518",
 		"editorGroupHeader.tabsBackground": "#111518",
 		"editorHoverWidget.background": "#1C2022",
 		"input.background": "#111518",
 		"input.foreground": "#C0C0C0",
+		"list.hoverBackground": "#37414050",
 		"menu.selectionBackground": "#24282A",
 		"scrollbarSlider.activeBackground": "#374140",
 		"scrollbarSlider.background": "#37414050",
@@ -25,31 +27,19 @@
 		"tab.inactiveBackground": "#111518",
 		"titleBar.activeBackground": "#1C2022",
 		"titleBar.border": "#111518",
+		"editorSuggestWidget.background": "#111518",
+		"editorSuggestWidget.selectedBackground": "#24282A",
+		"editorSuggestWidget.border": "#111518",
 		"editorHoverWidget.border": "#111518",
 		"inputOption.activeBorder": "#66b9f4",
 		"focusBorder": "#66b9f4",
 		"peekViewEditor.background": "#111518",
+		"menu.background": "#1C2022",
 		"menu.foreground": "#C0C0C0",
 		"menu.selectionForeground": "#ffffff",
 		"menubar.selectionBackground": "#ffffff10",
 		"menubar.selectionForeground": "#ffffff",
-		"editorGroup.dropBackground": "#ffd3991f",
-		// Plus
-		"tab.activeBorderTop": "#FFC000",
-		"tab.hoverBorder": "#ffd90070",
-		"tab.hoverBackground": "#FFC00010",
-		"menu.border": "#FFC00050",
-		"menu.background": "#000000",
-		"sideBarSectionHeader.foreground": "#dbeeee",
-		"list.hoverForeground": "#aeb4ff",
-		"list.hoverBackground": "#aab0f83b",
-		"list.activeSelectionBackground": "#aab0f844",
-		"editorSuggestWidget.border": "#ffbf002c",
-		"editorSuggestWidget.selectedBackground": "#aab0f838",
-		"editorSuggestWidget.background": "#000108",
-		"editorSuggestWidget.foreground": "#ffc664a2", // "#ffbf40e7",
-		"editorSuggestWidget.highlightForeground": "#ffbf40b4",
-		"editor.selectionBackground": "#aab0f84d"
+		"editorGroup.dropBackground": "#ffd3991f"
 	},
 	"tokenColors": [
 		// PySettings
@@ -152,7 +142,7 @@
 		{
 			"name": "[VSCODE-CUSTOM] Markdown headings",
 			"scope": [
-				"entity.name.section.markdown"
+				"entity.name.section.markdown",
 			],
 			"settings": {
 				"foreground": "#eaec74"
@@ -349,7 +339,7 @@
 				"markup.underline.link.image.markdown"
 			],
 			"settings": {
-				"foreground": "#888a2652"
+				"foreground": "#bbbbbb33"
 			}
 		},
 		{
@@ -370,7 +360,7 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#7d8594",
+				"foreground": "#5C6370",
 				"fontStyle": "italic"
 			}
 		},
