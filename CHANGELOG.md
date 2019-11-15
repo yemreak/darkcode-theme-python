@@ -1,5 +1,10 @@
 # ✨ Changelog
 
+## 1.3.0
+
+- 🚀 Plus themes added
+  - Changed suggestion menu, sidebar and tab borders colors
+- More visible comment, markdown header and link for all themes
 
 ## 📦 1.2.0
 
