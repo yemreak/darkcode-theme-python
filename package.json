@@ -30,12 +30,22 @@
             {
                 "label": "DarkCode",
                 "uiTheme": "vs-dark",
-                "path": "./themes/darkcode.json"
+                "path": "./themes/darkcode.jsonc"
+            },
+            {
+                "label": "DarkCode+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkcode-plus.jsonc"
             },
             {
                 "label": "DarkCode Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-contrast.json"
+                "path": "./themes/darkcode-contrast.jsonc"
+            }
+            {
+                "label": "DarkCode Contrast+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkcode-contrast-plus.jsonc"
             }
         ]
     }
