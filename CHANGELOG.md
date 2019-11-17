@@ -1,5 +1,9 @@
 # ✨ Changelog
 
+## 1.3.3
+
+- 👁‍🗨 More visual link color for all themes
+
 ## 1.3.2
 
 - 📑 Explaning added

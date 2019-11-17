@@ -349,7 +349,7 @@
 				"markup.underline.link.image.markdown"
 			],
 			"settings": {
-				"foreground": "#888a2652"
+				"foreground": "#eaec7461"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 				"meta.tag.inline.kbd.end.html"
 			],
 			"settings": {
-				"foreground": "#E06C75",
+				"foreground": "#E06C75"
 			}
 		},
 		// MdSettings
