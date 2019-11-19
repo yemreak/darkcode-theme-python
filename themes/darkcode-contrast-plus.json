@@ -38,22 +38,25 @@
         "menu.selectionForeground": "#ffffff",
         "menubar.selectionBackground": "#ffffff10",
         "menubar.selectionForeground": "#ffffff",
+        "list.hoverForeground": "#ffee00",
+        "list.hoverBackground": "#fbff0018",
+        "editor.selectionBackground": "#ffee002a",
+        "list.activeSelectionBackground": "#35320d",
+        "list.focusBackground": "#fbff0020",
+        "list.inactiveSelectionBackground": "#35320dd0",
+        "menu.border": "#FFC00050",
+        "menu.background": "#000000",
+        "editorSuggestWidget.background": "#000108",
+        // Plus
         "editorGroup.dropBackground": "#ffd3991f",
         "tab.activeBorderTop": "#FFC000",
         "tab.hoverBorder": "#ffd90070",
         "tab.hoverBackground": "#FFC00010",
-        "menu.border": "#FFC00050",
-        "menu.background": "#000000",
         "sideBarSectionHeader.foreground": "#dbeeee",
-        "list.hoverForeground": "#aeb4ff",
-        "list.hoverBackground": "#aab0f83b",
-        "list.activeSelectionBackground": "#aab0f844",
         "editorSuggestWidget.border": "#ffbf002c",
         "editorSuggestWidget.selectedBackground": "#aab0f838",
-        "editorSuggestWidget.background": "#000108",
-        "editorSuggestWidget.foreground": "#ffc664a2", // "#ffbf40e7",
         "editorSuggestWidget.highlightForeground": "#ffbf40b4",
-        "editor.selectionBackground": "#aab0f84d"
+        "editorSuggestWidget.foreground": "#e4a230dc" // e7b050a2
     },
     "tokenColors": [
         // PySettings
