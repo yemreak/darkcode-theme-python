@@ -12,6 +12,8 @@
 - 🐍 Python
 - 🤓 Dark (of course)
 
+> ✨ Goes well with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) extension.
+
 ## 👁‍🗨 Preview
 
 ### 🌓 DarkCode
