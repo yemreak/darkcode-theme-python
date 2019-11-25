@@ -9,7 +9,6 @@
         "editor.foreground": "#bababa",
         "editorWhitespace.foreground": "#262626",
         "editor.lineHighlightBackground": "#080808",
-        "sideBar.background": "#0d0d0d",
         "sideBar.foreground": "#bababa",
         "activityBar.background": "#050505",
         "badge.background": "#374140",
@@ -47,6 +46,10 @@
         "menu.border": "#FFC00050",
         "menu.background": "#000000",
         "editorSuggestWidget.background": "#000108",
+        "sideBar.background": "#0c0c0c",
+        "terminal.background": "#0c0c0c",
+        "terminalCursor.foreground": "#ffd000",
+        "terminal.selectionBackground": "#ffd0002d",
         // Plus
         "editorGroup.dropBackground": "#ffd3991f",
         "tab.activeBorderTop": "#FFC000",
@@ -56,7 +59,7 @@
         "editorSuggestWidget.border": "#ffbf002c",
         "editorSuggestWidget.selectedBackground": "#aab0f838",
         "editorSuggestWidget.highlightForeground": "#ffbf40b4",
-        "editorSuggestWidget.foreground": "#e4a230dc", // e7b050a2
+        "editorSuggestWidget.foreground": "#e4a230dc" // e7b050a2
     },
     "tokenColors": [
         // PySettings
