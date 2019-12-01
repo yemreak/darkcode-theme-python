@@ -1,10 +1,10 @@
-# ✨ DarkCode Theme Adopted Python and Markdown <!-- omit in toc -->
+# ✨ DarkCode Theme <!-- omit in toc -->
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 
-༼ つ ◕_◕ ༽つ DarkCode Theme for VsCode Adopted Python and Markdown 👨‍💻
+༼ つ ◕_◕ ༽つ Dark theme for cool coders 👩‍💻👨‍💻
 
 ## 📋 Contents <!-- omit in toc -->
 
