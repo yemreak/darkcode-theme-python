@@ -4,8 +4,8 @@ Changelog
 
 2.0.0 (2019-12-1)
 ------------
+- 🚙 Serving to new changes and app
 - 🚀 More colors and supports. [Yunus Emre]
-
   * 🤝 Now supports all languages
   * 🎨 More color space
   * 👀 More readable and focusable
@@ -16,17 +16,14 @@ Changelog
 ------------------
 - 🤝🏿 Added supported extension. [Yunus Emre]
 - ✨ Color optimization. [Yunus Emre]
-
   - Terminal cursor became yellow (only contrast+)
   - Terminal bg became little brighter (only contrasts)
 - 🌑 More darker list item colors. [Yunus Emre]
 - 🚀 New version (1.4.0) [Asmaa Mirkhan, Yunus Emre]
-
   - ✨ Visual improvements
   - 👨‍🔧 Color palette fixes
 - 🚀 New release (1.3.3) [Yunus Emre]
-
-  👁‍🗨 More visual link color for all themes
+  - 👁‍🗨 More visual link color for all themes
 - ✨ [Yunus Emre]
 - 🚀 New version. [Yunus Emre]
 - 📑 Explaning added. [Yunus Emre]
@@ -36,9 +33,7 @@ Changelog
 - 📑 Changelog updated. [Yunus Emre]
 - 🚀 Plus themes are added. [Yunus Emre]
 - ✨ Visibility improvement. [Yunus Emre]
-
-  Visible comment, markdown link and header
-
+  - Visible comment, markdown link and header
 
 1.2.0 (2019-11-12)
 ------------------
@@ -60,5 +55,3 @@ Changelog
 - Update package infos. [yedhrab]
 - Additional infos ℹ. [yedhrab]
 - First theme 🎉 [yedhrab]
-
-
