@@ -62,103 +62,150 @@
         "editorSuggestWidget.foreground": "#e4a230dc" // e7b050a2
     },
     "tokenColors": [
-        // PySettings
+        // ----------- Start Code Colors -----------
         {
-            "name": "Python Support Function",
+            "name": "Function-Call Argument",
             "scope": [
-                "support.function.builtin.python"
+                "meta.function-call.arguments",
+                "meta.function-call",
+                "meta.member.access"
+            ],
+            "settings": {
+                "foreground": "#9a9384"
+            }
+        },
+        {
+            "name": "Item access",
+            "scope": [
+                "meta.item-access"
+            ],
+            "settings": {
+                "foreground": "#e0a2a2f5"
+            }
+        },
+        {
+            "name": "Variable language this",
+            "scope": [
+                "variable.language.this"
+            ],
+            "settings": {
+                "foreground": "#e6717acc"
+            }
+        },
+        {
+            "name": "Variable Other Property",
+            "scope": [
+                "variable.other.property"
+            ],
+            "settings": {
+                "foreground": "#daa1a1"
+            }
+        },
+        {
+            "name": "Variable Other Objects",
+            "scope": [
+                "variable.other.object"
+            ],
+            "settings": {
+                "foreground": "#d89ba0c7"
+            }
+        },
+        {
+            "name": "Support Function",
+            "scope": [
+                "support.function.builtin"
             ],
             "settings": {
                 "foreground": "#d9db3e"
             }
         },
         {
-            "name": "Python Function Name",
+            "name": "Function Name",
             "scope": [
-                "entity.name.function.python"
+                "entity.name.function"
             ],
             "settings": {
                 "foreground": "#ffc400"
             }
         },
         {
-            "name": "Python Function Call",
+            "name": "Function Call",
             "scope": [
-                "meta.function-call.generic.python"
+                "meta.function-call.generic"
             ],
             "settings": {
                 "foreground": "#d89d46"
             }
         },
         {
-            "name": "Python Function Variable",
+            "name": "Function Variable",
             "scope": [
-                "source.python variable.parameter"
+                "source variable.parameter"
             ],
             "settings": {
                 "foreground": "#7c7770"
             }
         },
         {
-            "name": "Source Python Keyword Operator Logical Python",
+            "name": "Source Keyword Operator Logical",
             "scope": [
-                "source.python keyword.operator.logical.python"
+                "source keyword.operator.logical"
             ],
             "settings": {
                 "foreground": "#C678DD"
             }
         },
         {
-            "name": "Python Constants Other",
-            "scope": "source.python constant.other",
+            "name": "Constants Other",
+            "scope": "source constant.other",
             "settings": {
                 "foreground": "#6181bd"
             }
         },
         {
-            "name": "Python Constants",
-            "scope": "source.python constant",
+            "name": "Constants",
+            "scope": "source constant",
             "settings": {
                 "foreground": "#e05431"
             }
         },
         {
-            "name": "Python Placeholder Character",
-            "scope": "constant.character.format.placeholder.other.python storage",
+            "name": "Placeholder Character",
+            "scope": "constant.character.format.placeholder.other storage",
             "settings": {
                 "foreground": "#D19A66"
             }
         },
         {
-            "name": "Python Magic",
-            "scope": "support.variable.magic.python",
+            "name": "Magic",
+            "scope": "support.variable.magic",
             "settings": {
                 "foreground": "#E06C75"
             }
         },
         {
-            "name": "Python Meta Function Parameters",
-            "scope": "meta.function.parameters.python",
+            "name": "Meta Function Parameters",
+            "scope": "meta.function.parameters",
             "settings": {
                 "foreground": "#D19A66"
             }
         },
         {
-            "name": "Python Function Separator Annotation",
-            "scope": "punctuation.separator.annotation.python",
+            "name": "Function Separator Annotation",
+            "scope": "punctuation.separator.annotation",
             "settings": {
                 "foreground": "#ABB2BF"
             }
         },
         {
-            "name": "Python Function Separator Punctuation",
-            "scope": "punctuation.separator.parameters.python",
+            "name": "Function Separator Punctuation",
+            "scope": "punctuation.separator.parameters",
             "settings": {
                 "foreground": "#ABB2BF"
             }
         },
-        // PySettings
-        // MdSettings
+        // ----------- Start Code Colors -----------
+        // ----------- Start Markdown Colors -----------
         {
             "name": "[VSCODE-CUSTOM] Markdown headings",
             "scope": [
@@ -370,10 +417,10 @@
                 "meta.tag.inline.kbd.end.html"
             ],
             "settings": {
-                "foreground": "#E06C75",
+                "foreground": "#E06C75"
             }
         },
-        // MdSettings
+        // ----------- Start Markdown Colors -----------
         {
             "name": "Comment",
             "scope": [
@@ -390,7 +437,7 @@
                 "meta"
             ],
             "settings": {
-                "foreground": "#e4e4e4",
+                "foreground": "#e4e4e4"
             }
         },
         {

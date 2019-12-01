@@ -1,8 +1,8 @@
 {
-    "name": "darkcode-theme-adopted-python-and-markdown",
-    "displayName": "DarkCode Theme Adopted Python and Markdown",
-    "description": "Dark theme for python and markdown coders 👩‍💻",
-    "version": "1.4.1",
+    "name": "darkcode-theme",
+    "displayName": "DarkCode Theme",
+    "description": "🌚 Dark theme for cool coders 👩‍💻👨‍💻",
+    "version": "2.0.0",
     "publisher": "yedhrab",
     "engines": {
         "vscode": "^1.35.0"
@@ -13,13 +13,19 @@
         "Themes"
     ],
     "keywords": [
-        "markdown",
         "theme",
-        "python",
         "dark",
+        "darkest",
+        "deep dark",
+        "deep black",
+        "black",
+        "best",
         "code",
+        "coder",
         "contrast",
-        "black"
+        "cool",
+        "markdown",
+        "python"
     ],
     "repository": {
         "type": "git",
@@ -28,22 +34,22 @@
     "contributes": {
         "themes": [
             {
-                "label": "DarkCode",
+                "label": "🌓 DarkCode",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcode.json"
             },
             {
-                "label": "DarkCode+",
+                "label": "🌗 DarkCode+",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcode-plus.json"
             },
             {
-                "label": "DarkCode Contrast",
+                "label": "🌚 DarkCode Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcode-contrast.json"
             },
             {
-                "label": "DarkCode Contrast+",
+                "label": "🌒 DarkCode Contrast+",
                 "uiTheme": "vs-dark",
                 "path": "./themes/darkcode-contrast-plus.json"
             }
