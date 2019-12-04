@@ -104,7 +104,8 @@
         {
             "name": "Variable Other Objects",
             "scope": [
-                "variable.other.object"
+                "variable.other.object",
+                "support.type.builtin.ahk" // AHK support
             ],
             "settings": {
                 "foreground": "#d89ba0c7"
