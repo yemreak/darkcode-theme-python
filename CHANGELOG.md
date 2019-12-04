@@ -3,7 +3,9 @@ Changelog
 
 2.0.3 (2019-12-4)
 ------------
-- 📑 Added descriptions
+- 👨‍🔧 Neme is changed to YDarkcode Theme
+- 🤝 Added AutoHotkey support
+
 
 2.0.1 (2019-12-1)
 ------------
