@@ -1,3 +1,7 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+templates/**
+test/**
+utils/**
+desktop.ini

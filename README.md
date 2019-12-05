@@ -1,11 +1,11 @@
-# ✨ DarkCode Theme
+# 🖤🤍 DarkCode Theme
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/darkcode-theme)
 
-༼ つ ◕_◕ ༽つ Dark theme for cool coders 👩‍💻👨‍💻
+༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 
 ## 🙋‍♂️ What's It
 
@@ -13,6 +13,7 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
+- 🤍 Baby Light Theme
 - ✨ More colorful syntax highlighting
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
@@ -25,21 +26,37 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 ## 👁‍🗨 Preview
 
-### 🌓 DarkCode
+### 🌘 DarkCode
 
-![](res/theme.png)
+![](res/darkcode.png)
 
-### 🌗 DarkCode+
+### 🌒 DarkCode+
 
-![](res/theme_plus.png)
+![](res/darkcode-plus.png)
 
-### 🌑 Darkcode Contrast
+### 🌑 DarkCode Contrast
 
-![](res/contrast.png)
+![](res/darkcod-contrast.png)
 
-### 🌒 DarkCode Contrast+
+### 🌚 DarkCode Contrast+
 
-![](res/contrast_plus.png)
+![](res/darkcode-contrast-plus.png)
+
+### 🌔 LightCode
+
+![](res/lightcode.png)
+
+### 🌖 LightCode+
+
+![](res/lightcode-plus.png)
+
+### ☀️ LightCode Contrast
+
+![](res/lightcode-contrast.png)
+
+### 🌞 LightCode Contrast+
+
+![](res/lightcode-contrast-plus.png)
 
 ## ✨ What's New
 
