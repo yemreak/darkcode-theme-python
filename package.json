@@ -2,7 +2,7 @@
     "name": "darkcode-theme-adopted-python-and-markdown",
     "displayName": "🖤🤍 DarkCode Theme",
     "description": "༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "publisher": "yedhrab",
     "engines": {
         "vscode": "^1.35.0"
@@ -63,22 +63,22 @@
             },
             {
                 "label": "🌔 LightCode",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/lightcode.json"
             },
             {
                 "label": "🌖 LightCode+",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/lightcode-plus.json"
             },
             {
                 "label": "☀️ LightCode Contrast",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/lightcode-contrast.json"
             },
             {
                 "label": "🌞 LightCode Contrast+",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/lightcode-contrast-plus.json"
             }
         ]

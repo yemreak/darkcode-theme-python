@@ -13,7 +13,7 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
-- 🤍 Baby Light Theme
+- 🤍 Fresh Light Theme
 - ✨ More colorful syntax highlighting
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
