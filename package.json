@@ -2,7 +2,7 @@
     "name": "darkcode-theme-adopted-python-and-markdown",
     "displayName": "🖤 YDarkCode Theme",
     "description": "Dark theme for cool coders 👩‍💻👨‍💻",
-    "version": "2.0.3",
+    "version": "2.1.0",
     "publisher": "yedhrab",
     "engines": {
         "vscode": "^1.35.0"
@@ -25,7 +25,9 @@
         "contrast",
         "cool",
         "markdown",
-        "python"
+        "python",
+        "autohotkey",
+        "java"
     ],
     "repository": {
         "type": "git",
