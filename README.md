@@ -1,33 +1,27 @@
-# ✨ DarkCode Theme <!-- omit in toc -->
+# ✨ DarkCode Theme
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
+![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/darkcode-theme)
 
 ༼ つ ◕_◕ ༽つ Dark theme for cool coders 👩‍💻👨‍💻
 
-## 📋 Contents <!-- omit in toc -->
+## 🙋‍♂️ What's It
 
-- [🎯 Focused](#%f0%9f%8e%af-focused)
-- [👁‍🗨 Preview](#%f0%9f%91%81%e2%80%8d%f0%9f%97%a8-preview)
-  - [🌓 DarkCode](#%f0%9f%8c%93-darkcode)
-  - [🌗 DarkCode+](#%f0%9f%8c%97-darkcode)
-  - [🌑 Darkcode Contrast](#%f0%9f%8c%91-darkcode-contrast)
-  - [🌒 DarkCode Contrast+](#%f0%9f%8c%92-darkcode-contrast)
-- [✨ What's New](#%e2%9c%a8-whats-new)
-  - [👮‍♂️ Item Access](#%f0%9f%91%ae%e2%80%8d%e2%99%82%ef%b8%8f-item-access)
-  - [🚗 Function Call Arguments](#%f0%9f%9a%97-function-call-arguments)
-  - [☕ Java and Other Languages Support](#%e2%98%95-java-and-other-languages-support)
-- [💖 Support & Contact](#%f0%9f%92%96-support--contact)
-- [🔏 License](#%f0%9f%94%8f-license)
+For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) GitHub repository.
+
+- 🚀 Up to date
+- 🖤 Well tuned Dark Theme
+- ✨ More colorful syntax highlighting
+- 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## 🎯 Focused
 
 - 📑 Markdown
 - 🐍 Python
-- 🤓 Dark (of course)
-
-> ✨ Goes well with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) extension.
+- ☕ Java
+- 👨‍💻 AutoHotkey
 
 ## 👁‍🗨 Preview
 
