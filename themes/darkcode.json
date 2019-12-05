@@ -42,7 +42,7 @@
 		"list.inactiveSelectionBackground": "#35320dd0",
 		"menu.border": "#FFC00050",
 		"menu.background": "#1C2022",
-		"editorSuggestWidget.background": "#1C2022",
+		"editorSuggestWidget.background": "#1C2022"
 	},
 	"tokenColors": [
 		// ----------- Start Code Colors -----------
@@ -87,7 +87,7 @@
 		{
 			"name": "Variable Other Objects",
 			"scope": [
-				"variable.other.object",
+				"variable.other.object"
 			],
 			"settings": {
 				"foreground": "#d89ba0c7"
@@ -994,7 +994,7 @@
 		{
 			"name": "Source Java Storage Type",
 			"scope": [
-				"source.java storage.type",
+				"source.java storage.type"
 			],
 			"settings": {
 				"foreground": "#E5C07B"

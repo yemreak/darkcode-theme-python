@@ -93,7 +93,7 @@
         {
             "name": "Variable Other Objects",
             "scope": [
-                "variable.other.object",
+                "variable.other.object"
             ],
             "settings": {
                 "foreground": "#d89ba0c7"
@@ -1000,7 +1000,7 @@
         {
             "name": "Source Java Storage Type",
             "scope": [
-                "source.java storage.type",
+                "source.java storage.type"
             ],
             "settings": {
                 "foreground": "#E5C07B"
