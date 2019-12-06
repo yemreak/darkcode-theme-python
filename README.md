@@ -1,4 +1,4 @@
-# 🖤🤍 DarkCode Theme
+# 🖤🤍 DarkCode Theme <!-- omit in toc -->
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
@@ -7,7 +7,7 @@
 
 ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 
-## 🙋‍♂️ What's It
+## 🙋‍♂️ What's It <!-- omit in toc -->
 
 For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) GitHub repository.
 
@@ -19,22 +19,50 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
-## 🎯 Focused
+## 🎯 Focused <!-- omit in toc -->
 
 - 📑 Markdown
 - 🐍 Python
 - ☕ Java
 - 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
 
-## 👁‍🗨 Preview
+## 📋 Contents <!-- omit in toc -->
+
+- [👁‍🗨 Previews](#%f0%9f%91%81%e2%80%8d%f0%9f%97%a8-previews)
+  - [🌘 DarkCode](#%f0%9f%8c%98-darkcode)
+  - [🌘 DarkCode+](#%f0%9f%8c%98-darkcode)
+  - [🌘 DarkCode++](#%f0%9f%8c%98-darkcode)
+  - [🌑 DarkCode Contrast](#%f0%9f%8c%91-darkcode-contrast)
+  - [🌚 DarkCode Contrast+](#%f0%9f%8c%9a-darkcode-contrast)
+  - [🌚 DarkCode Contrast++](#%f0%9f%8c%9a-darkcode-contrast)
+  - [🌔 LightCode](#%f0%9f%8c%94-lightcode)
+  - [🌖 LightCode+](#%f0%9f%8c%96-lightcode)
+  - [🌞 LightCode++](#%f0%9f%8c%9e-lightcode)
+  - [☀️ LightCode Contrast](#%e2%98%80%ef%b8%8f-lightcode-contrast)
+  - [🌞 LightCode Contrast+](#%f0%9f%8c%9e-lightcode-contrast)
+  - [🌞 LightCode Contrast++](#%f0%9f%8c%9e-lightcode-contrast)
+- [👨‍💻 What's New in Code Languages](#%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-whats-new-in-code-languages)
+  - [🚀 AutoHotkey Support](#%f0%9f%9a%80-autohotkey-support)
+  - [👮‍♂️ Item Access](#%f0%9f%91%ae%e2%80%8d%e2%99%82%ef%b8%8f-item-access)
+  - [🚗 Function Call Arguments](#%f0%9f%9a%97-function-call-arguments)
+  - [☕ Java and Other Languages Support](#%e2%98%95-java-and-other-languages-support)
+- [🐛 Knowed Issue](#%f0%9f%90%9b-knowed-issue)
+- [💖 Support & Contact](#%f0%9f%92%96-support--contact)
+- [🔏 License](#%f0%9f%94%8f-license)
+
+## 👁‍🗨 Previews
 
 ### 🌘 DarkCode
 
 ![](res/darkcode.png)
 
-### 🌒 DarkCode+
+### 🌘 DarkCode+
 
 ![](res/darkcode-plus.png)
+
+### 🌘 DarkCode++
+
+![](res/darkcode-plus-plus.png)
 
 ### 🌑 DarkCode Contrast
 
@@ -56,6 +84,10 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 ![](res/lightcode-plus.png)
 
+### 🌞 LightCode++
+
+![](res/lightcode-plus-plus.png)
+
 ### ☀️ LightCode Contrast
 
 ![](res/lightcode-contrast.png)
@@ -68,7 +100,11 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 ![](res/lightcode-contrast-plus-plus.png)
 
-## ✨ What's New
+## 👨‍💻 What's New in Code Languages
+
+### 🚀 AutoHotkey Support
+
+![](res/ahk_theme.png)
 
 ### 👮‍♂️ Item Access
 
@@ -81,6 +117,12 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 ### ☕ Java and Other Languages Support
 
 ![](res/hello_java.png)
+
+## 🐛 Knowed Issue
+
+This issue happend caused by Python tokenizer fault, not theme error 🙂
+
+![](res/item_access.png)
 
 ## 💖 Support & Contact
 

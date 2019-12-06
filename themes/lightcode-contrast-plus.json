@@ -53,6 +53,7 @@
         "notificationCenter.border": "#003fff",
         "notifications.background": "#ffffff", // Sağ alt köşeddeki 🔔
         "notifications.border": "#003fffa8",
+        "notificationToast.border": "#003fff50",
         "panel.background": "#ffffff", // Terminal üstündeki alan bg
         "panel.border": "#e7e8e8", // Terminal üstündeki Up - Editor Down border
         "panelTitle.activeBorder": "#003fff", // Terminal üstündeki selected tab
