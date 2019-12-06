@@ -1,5 +1,5 @@
 {
-	"name": "DarkCode",
+	"name": "DarkCode+",
 	"type": "dark",
 	"author": "yedhrab",
 	"colors": {
@@ -9,31 +9,25 @@
 		"activityBarBadge.background": "#FFC00050", // En sağdaki bildirimler
 		"activityBarBadge.foreground": "#ffffff", // En sağdaki bildirimler
 		"badge.background": "#374140",
-		"breadcrumb.foreground": "#9e9d9d",
 		"button.background": "#a85a19",
 		"button.hoverBackground": "#e27821",
 		"dropdown.background": "#333333",
 		"dropdown.border": "#FFC00050",
 		"dropdown.foreground": "#C0C0C0",
 		"dropdown.listBackground": "#1c2022",
-		"editor.background": "#1c2022",
+		"editor.background": "#1C2022",
 		"editor.findMatchBackground": "#ffe8e82a", // CTRL + F ile bulma Eklenecek
-		"editor.foreground": "#bababa",
-		"editor.lineHighlightBackground": "#080808",
 		"editor.selectionBackground": "#FFC00050",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorGroup.border": "#111518", // 2 editör arasındaki çizgi
+		"editorGroup.dropBackground": "#ffd3991f",
 		"editorGroupHeader.tabsBackground": "#171a1b", // Sekzmelerin arkaplanı
 		"editorGroupHeader.tabsBorder": "#111518",
 		"editorHoverWidget.background": "#1c2022",
 		"editorHoverWidget.border": "#ffc000a8", // Mousu bekletince çıkan ekran
-		"editorHoverWidget.foreground": "#C0C0C0",
-		"editorLineNumber.foreground": "#858585",
-		"editorSuggestWidget.background": "#000108",
-		"editorWhitespace.foreground": "#262626",
+		"editorSuggestWidget.background": "#1C2022",
 		"editorWidget.background": "#333333",
 		"focusBorder": "#FFC00050",
-		"foreground": "#bababa",
 		"icon.foreground": "#e9dfd8", // Arama alanı butonları vs
 		"input.background": "#111518", // Arama alanı yazılan yerin rengi
 		"input.foreground": "#C0C0C0",
@@ -45,11 +39,8 @@
 		"list.inactiveSelectionBackground": "#35320dd0",
 		"menu.background": "#1c2022", // Sağ tıkladığımızda çıkan ekran
 		"menu.border": "#ffc000a8",
-		"menu.foreground": "#C0C0C0",
 		"menu.selectionBackground": "#0d0d00",
 		"menu.selectionForeground": "#ffffff",
-		"menubar.selectionBackground": "#ffffff10",
-		"menubar.selectionForeground": "#ffffff",
 		"notificationCenter.border": "#ffc000",
 		"notifications.background": "#1c2022", // Sağ alt köşeddeki 🔔
 		"notifications.border": "#ffc000a8",
@@ -63,20 +54,15 @@
 		"pickerGroup.border": "#ffc000a8",
 		"pickerGroup.foreground": "#ffa837",
 		"scrollbarSlider.activeBackground": "#374140", // kaydırma çubuğu
-		"scrollbarSlider.background": "#24211ea6",
+		"scrollbarSlider.background": "#374140a6",
 		"scrollbarSlider.hoverBackground": "#374140",
 		"settings.numberInputBackground": "#333333",
 		"settings.textInputBackground": "#333333",
 		"sideBar.background": "#1c2022", // soldaki panel
-		"sideBar.border": "#111518",
-		"sideBar.foreground": "#C0C0C0",
 		"sideBarSectionHeader.background": "#252b2e", // Soldaki paneldeki başlıklarr
 		"sideBarSectionHeader.foreground": "#C0C0C0",
 		"sideBarTitle.foreground": "#cecece",
 		"statusBar.background": "#22212b",
-		"statusBar.debuggingBackground": "#2a0052",
-		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#a75a0029",
 		"statusBarItem.remoteBackground": "#22212b", // En alttaki çubukta en soldaki remote alanı
 		"statusBarItem.remoteForeground": "#f3f4f4", // En alttaki çubukta en soldaki remote alanı
 		"tab.activeBackground": "#1c2022",
@@ -85,14 +71,23 @@
 		"tab.inactiveBackground": "#171a1b",
 		"tab.inactiveForeground": "#C0C0C0",
 		"terminal.background": "#1c2022", // Terminal arkaplanı
-		"terminal.foreground": "#bababa",
-		"terminal.selectionBackground": "#ffe8e823",
-		"terminalCursor.foreground": "#e4d9cc",
 		"textLink.activeForeground": "#dba827", // Linkler
 		"textLink.foreground": "#bb8b54",
 		"titleBar.activeBackground": "#1c2022",
-		"titleBar.activeForeground": "#C0C0C0", // En üstteki başlık
-		"titleBar.border": "#111518" // Sekmelerin üstü - En üst başlığın altı
+		"titleBar.border": "#111518", // Sekmelerin üstü - En üst başlığın altı
+		// Plus
+		"editorSuggestWidget.border": "#ffbf002c",
+		"editorSuggestWidget.foreground": "#e4a230dc", // e7b050a2
+		"editorSuggestWidget.highlightForeground": "#ffbf40b4",
+		"editorSuggestWidget.selectedBackground": "#aab0f838",
+		"tab.activeBorderTop": "#FFC000",
+		"tab.hoverBackground": "#FFC00010",
+		"tab.hoverBorder": "#ffd90070",
+		// Plus Plus
+		"editorHoverWidget.foreground": "#bb8b12",
+		"menu.foreground": "#bb8b12",
+		"terminal.foreground": "#bb8b12",
+		"titleBar.activeForeground": "#bb8b12"
 	},
 	"tokenColors": [
 		// ----------- Start Code Colors -----------

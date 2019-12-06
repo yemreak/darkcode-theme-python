@@ -15,6 +15,8 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 - 🖤 Well tuned Dark Theme
 - 🤍 Fresh Light Theme
 - ✨ More colorful syntax highlighting
+- 💖 Has [Contributing](CONTRIBUTING.md) guide that explain the color systems is below
+- [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 ## 🎯 Focused
@@ -22,7 +24,7 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 - 📑 Markdown
 - 🐍 Python
 - ☕ Java
-- 👨‍💻 AutoHotkey
+- 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
 
 ## 👁‍🗨 Preview
 
@@ -42,6 +44,10 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 ![](res/darkcode-contrast-plus.png)
 
+### 🌚 DarkCode Contrast++
+
+![](res/darkcode-contrast-plus-plus.png)
+
 ### 🌔 LightCode
 
 ![](res/lightcode.png)
@@ -57,6 +63,10 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 ### 🌞 LightCode Contrast+
 
 ![](res/lightcode-contrast-plus.png)
+
+### 🌞 LightCode Contrast++
+
+![](res/lightcode-contrast-plus-plus.png)
 
 ## ✨ What's New
 
@@ -74,7 +84,7 @@ For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/Dar
 
 ## 💖 Support & Contact
 
-​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto::yedhrab@gmail.com?subject=YBilgiler%20%7C%20Github)​
+​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto::yedhrab@gmail.com?subject=DarkCode%20Theme%20%7C%20Github)​
 
 ​[​![Patreon](https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG)](https://www.patreon.com/yemreak/)
 
