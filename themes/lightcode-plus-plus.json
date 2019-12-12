@@ -6,8 +6,8 @@
 		"activityBar.activeBorder": "#003fff", // En sağdaki çizgi
 		"activityBar.background": "#e3dfdd", // En soldaki panel
 		"activityBar.foreground": "#0d0d0d",
-		"activityBarBadge.background": "#003fff50", // En sağdaki bildirimler
-		"activityBarBadge.foreground": "#000000", // En sağdaki bildirimler
+		"activityBarBadge.background": "#2457d8", // En sağdaki bildirimler
+		"activityBarBadge.foreground": "#f2f2ff", // En sağdaki bildirimler
 		"badge.background": "#c8bebf",
 		"button.background": "#57a5e6",
 		"button.hoverBackground": "#1d87de",

@@ -6,8 +6,8 @@
         "activityBar.activeBorder": "#ffc000", // En sağdaki çizgi
         "activityBar.background": "#000000", // En soldaki panel
         "activityBar.foreground": "#F2F2F2",
-        "activityBarBadge.background": "#FFC00050", // En sağdaki bildirimler
-        "activityBarBadge.foreground": "#ffffff", // En sağdaki bildirimler
+        "activityBarBadge.background": "#dba827", // En sağdaki bildirimler
+        "activityBarBadge.foreground": "#0d0d00", // En sağdaki bildirimler
         "badge.background": "#374140",
         "breadcrumb.foreground": "#9e9d9d",
         "button.background": "#a85a19",
@@ -76,7 +76,7 @@
         "sideBarTitle.foreground": "#e7e7e7",
         "statusBar.background": "#191824",
         "statusBar.debuggingBackground": "#2a0052",
-        "statusBar.foreground": "#ffffff",
+        "statusBar.foreground": "#bababa",
         "statusBar.noFolderBackground": "#a75a0029",
         "statusBarItem.remoteBackground": "#191824", // En alttaki çubukta en soldaki remote alanı
         "statusBarItem.remoteForeground": "#f3f4f4", // En alttaki çubukta en soldaki remote alanı
