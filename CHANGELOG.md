@@ -1,18 +1,25 @@
 Changelog
 =========
 
-2.0.3 (2019-12-4)
-------------
+## 🤝 AHK assignment operator support \(4.0.5\)
+
+- ✨ Assigment operator hightlight for YAutoHotkeys
+- 👁️ Visual border color to activityBar
+- 👨‍💻 Core theme is moved new folder
+
+> ☀️ Light Themes unaffected by changes
+
+## 2.0.3 \(2019-12-4\)
+
 - 👨‍🔧 Neme is changed to YDarkcode Theme
 - 🤝 Added AutoHotkey support
 
+## 2.0.1 \(2019-12-1\)
 
-2.0.1 (2019-12-1)
-------------
 - 📑 Added descriptions
 
-2.0.0 (2019-12-1)
-------------
+## 2.0.0 \(2019-12-1\)
+
 - 🚙 Serving to new changes and app
 - 🚀 More colors and supports. [Yunus Emre]
   * 🤝 Now supports all languages
@@ -21,8 +28,8 @@ Changelog
   * 🎉 New name and description
 
 
-1.4.1 (2019-11-25)
-------------------
+## 1.4.1 \(2019-11-25\)
+
 - 🤝🏿 Added supported extension. [Yunus Emre]
 - ✨ Color optimization. [Yunus Emre]
   - Terminal cursor became yellow (only contrast+)

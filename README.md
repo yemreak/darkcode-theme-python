@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ What's It <!-- omit in toc -->
 
-For more detail 👀 take a look [DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) GitHub repository.
+For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/DarkCode-Theme/blob/master/CHANGELOG.md) file in [🖤 DarkCode Theme](https://github.com/yedhrab/DarkCode-Theme) repo.
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
