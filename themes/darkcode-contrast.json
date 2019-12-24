@@ -453,6 +453,15 @@
             }
         },
         {
+            "name": "Source Keyword Operator Logical",
+            "scope": [
+                "keyword.operator.assignment.ahk"
+            ],
+            "settings": {
+                "foreground": "#e0a2a2f5"
+            }
+        },
+        {
             "name": "Comment",
             "scope": [
                 "comment"

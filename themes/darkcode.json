@@ -455,7 +455,18 @@
 				"foreground": "#E06C75"
 			}
 		},
-		// ----------- Start Markdown Colors -----------
+		// ----------- End Markdown Colors -----------
+		// ----------- Start Auto Hotkey Colors -----------
+		{
+			"name": "Source Keyword Operator Logical",
+			"scope": [
+				"keyword.operator.assignment.ahk"
+			],
+			"settings": {
+				"foreground": "#e0a2a2f5"
+			}
+		},
+		// ----------- End Auto Hotkey Colors -----------
 		{
 			"name": "Comment",
 			"scope": [
