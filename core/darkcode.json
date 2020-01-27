@@ -30,7 +30,7 @@
 		"editorHoverWidget.border": "#ffc000a8", // Mousu bekletince çıkan ekran
 		"editorHoverWidget.foreground": "#C0C0C0",
 		"editorLineNumber.foreground": "#858585",
-		"editorSuggestWidget.background": "#000108",
+		"editorSuggestWidget.background": "#1c2022",
 		"editorWhitespace.foreground": "#262626",
 		"editorWidget.background": "#1c2022ee",
 		"focusBorder": "#FFC00050",
@@ -42,15 +42,15 @@
 		"list.activeSelectionBackground": "#413701",
 		"list.focusBackground": "#413701aa", // Tüm listeler (sağdaki dosya isimleri vs)
 		"list.hoverBackground": "#41370155",
-		"list.hoverForeground": "#ffffff",
+		"list.hoverForeground": "#eeeeee",
 		"list.inactiveSelectionBackground": "#41370177",
 		"menu.background": "#1c2022", // Sağ tıkladığımızda çıkan ekran
-		"menu.border": "#ffc000a8",
+		"menu.border": "#413701",
 		"menu.foreground": "#C0C0C0",
-		"menu.selectionBackground": "#0d0d00",
-		"menu.selectionForeground": "#ffffff",
-		"menubar.selectionBackground": "#ffffff10",
-		"menubar.selectionForeground": "#ffffff",
+		"menu.selectionBackground": "#41370177",
+		"menu.selectionForeground": "#eeeeee",
+		"menubar.selectionBackground": "#eeeeee10",
+		"menubar.selectionForeground": "#eeeeee",
 		"notificationCenter.border": "#ffc000",
 		"notifications.background": "#1c2022", // Sağ alt köşeddeki 🔔
 		"notifications.border": "#ffc000a8",
@@ -95,7 +95,7 @@
 		"titleBar.activeBackground": "#1c2022",
 		"titleBar.activeForeground": "#C0C0C0", // En üstteki başlık
 		"titleBar.border": "#111518", // Sekmelerin üstü - En üst başlığın altı
-		"widget.shadow": "#ffc00055",
+		"widget.shadow": "#ffc00055"
 	},
 	"tokenColors": [
 		// ----------- Start Code Colors -----------
