@@ -1,6 +1,8 @@
 Changelog
 =========
 
+## 🎨 Color improvements 4.1.0
+
 ## 🤝 AHK assignment operator support \(4.0.5\)
 
 - ✨ Assigment operator hightlight for YAutoHotkeys
