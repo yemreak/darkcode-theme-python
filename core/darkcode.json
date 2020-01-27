@@ -20,8 +20,8 @@
 		"editor.background": "#1c2022",
 		"editor.findMatchBackground": "#ffe8e82a", // CTRL + F ile bulma Eklenecek
 		"editor.foreground": "#bababa",
-		"editor.lineHighlightBackground": "#080808",
-		"editor.selectionBackground": "#FFC00050",
+		"editor.lineHighlightBackground": "#1c2022", // Seçili satırı aydınlatma
+		"editor.selectionBackground": "#6b410177", // Seçili metnin arka planı
 		"editorCursor.foreground": "#f8f8f0",
 		"editorGroup.border": "#111518", // 2 editör arasındaki çizgi
 		"editorGroupHeader.tabsBackground": "#171a1b", // Sekzmelerin arkaplanı
@@ -88,7 +88,7 @@
 		"tab.inactiveForeground": "#C0C0C0",
 		"terminal.background": "#1c2022", // Terminal arkaplanı
 		"terminal.foreground": "#bababa",
-		"terminal.selectionBackground": "#ffe8e823",
+		"terminal.selectionBackground": "#6b410177", // Terminalde seçili metin arkapanı
 		"terminalCursor.foreground": "#e4d9cc",
 		"textLink.activeForeground": "#dba827", // Linkler
 		"textLink.foreground": "#bb8b54",
