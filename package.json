@@ -1,110 +1,110 @@
 {
-    "name": "darkcode-theme-adopted-python-and-markdown",
-    "displayName": "🖤🤍 DarkCode Theme",
-    "description": "༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻",
-    "version": "4.1.0",
-    "publisher": "yedhrab",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "icon": "res/mdpy.png",
-    "license": "MIT",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "dark",
-        "dark code",
-        "darkcode",
-        "dark theme",
-        "darkest",
-        "deep dark",
-        "deep black",
-        "black",
-        "best",
-        "code",
-        "coder",
-        "contrast",
-        "cool",
-        "markdown",
-        "python",
-        "autohotkey",
-        "java",
-        "light",
-        "light code",
-        "lightcode",
-        "light theme",
-        "lightest",
-        "deep light",
-        "deep white"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yedhrab/darkcode-theme"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "🌘 DarkCode",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode.json"
-            },
-            {
-                "label": "🌘 DarkCode+",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-plus.json"
-            },
-            {
-                "label": "🌘 DarkCode++",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-plus-plus.json"
-            },
-            {
-                "label": "🌑 DarkCode Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-contrast.json"
-            },
-            {
-                "label": "🌚 DarkCode Contrast+",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-contrast-plus.json"
-            },
-            {
-                "label": "🌚 DarkCode Contrast++",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkcode-contrast-plus-plus.json"
-            },
-            {
-                "label": "🌔 LightCode",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode.json"
-            },
-            {
-                "label": "🌖 LightCode+",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode-plus.json"
-            },
-            {
-                "label": "🌖 LightCode++",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode-plus-plus.json"
-            },
-            {
-                "label": "☀️ LightCode Contrast",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode-contrast.json"
-            },
-            {
-                "label": "🌞 LightCode Contrast+",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode-contrast-plus.json"
-            },
-            {
-                "label": "🌞 LightCode Contrast++",
-                "uiTheme": "vs",
-                "path": "./themes/lightcode-contrast-plus-plus.json"
-            }
-        ]
-    }
+	"name": "darkcode-theme-adopted-python-and-markdown",
+	"displayName": "🖤🤍 DarkCode Theme",
+	"description": "༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻",
+	"version": "4.1.0",
+	"publisher": "yedhrab",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"icon": "res/mdpy.png",
+	"license": "Apache",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"dark code",
+		"darkcode",
+		"dark theme",
+		"darkest",
+		"deep dark",
+		"deep black",
+		"black",
+		"best",
+		"code",
+		"coder",
+		"contrast",
+		"cool",
+		"markdown",
+		"python",
+		"autohotkey",
+		"java",
+		"light",
+		"light code",
+		"lightcode",
+		"light theme",
+		"lightest",
+		"deep light",
+		"deep white"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yedhrab/darkcode-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "🌘 DarkCode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode.json"
+			},
+			{
+				"label": "🌘 DarkCode+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-plus.json"
+			},
+			{
+				"label": "🌘 DarkCode++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-plus-plus.json"
+			},
+			{
+				"label": "🌑 DarkCode Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast.json"
+			},
+			{
+				"label": "🌚 DarkCode Contrast+",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast-plus.json"
+			},
+			{
+				"label": "🌚 DarkCode Contrast++",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkcode-contrast-plus-plus.json"
+			},
+			{
+				"label": "🌔 LightCode",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode.json"
+			},
+			{
+				"label": "🌖 LightCode+",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-plus.json"
+			},
+			{
+				"label": "🌖 LightCode++",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-plus-plus.json"
+			},
+			{
+				"label": "☀️ LightCode Contrast",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast.json"
+			},
+			{
+				"label": "🌞 LightCode Contrast+",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast-plus.json"
+			},
+			{
+				"label": "🌞 LightCode Contrast++",
+				"uiTheme": "vs",
+				"path": "./themes/lightcode-contrast-plus-plus.json"
+			}
+		]
+	}
 }
