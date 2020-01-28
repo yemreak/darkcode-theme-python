@@ -4,8 +4,11 @@
 
 🎨 Color improvements
 
-- 👨‍🎨 Suggest widget, selection background etc. are recolorized
-- 👨‍🔧 Highlight fitting
+- 🐥 Menu and hover color is more smooth now
+- 🌃 Editor widget has shadow color
+- 👨‍🎨 Terminal and editor selection bacground renewed
+- 👨‍🎨 List hover, selection background and foreground recolorized
+- 💦 Line highlight removed (same as background color)
 
 > ☀️ Light Themes unaffected by changes
 
