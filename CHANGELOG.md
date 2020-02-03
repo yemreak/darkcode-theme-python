@@ -1,5 +1,12 @@
 # ✨ Changelog
 
+##  🚀 4.1.1 \(03.02.2019\)
+
+- 👨‍🎨 Editor slider color is more visible now
+- 🎨 Minor color improvements
+
+> ☀️ Light Themes unaffected by changes
+
 ##  🚀 4.1.0 \(28.01.2019\)
 
 🎨 Color improvements

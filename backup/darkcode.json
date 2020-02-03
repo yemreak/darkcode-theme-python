@@ -65,7 +65,7 @@
 		"pickerGroup.border": "#ffc000a8",
 		"pickerGroup.foreground": "#ffa837",
 		"scrollbarSlider.activeBackground": "#374140", // kaydırma çubuğu
-		"scrollbarSlider.background": "#24211ea6",
+		"scrollbarSlider.background": "#252b2e",
 		"scrollbarSlider.hoverBackground": "#374140",
 		"settings.numberInputBackground": "#333333",
 		"settings.textInputBackground": "#333333",

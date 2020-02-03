@@ -25,6 +25,8 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - 🐍 Python
 - ☕ Java
 - 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
+- ⚛️ React
+- so on...
 
 ## 📋 Contents
 
