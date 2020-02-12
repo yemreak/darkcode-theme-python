@@ -1,4 +1,4 @@
-# 🖤🤍 DarkCode Theme <!-- omit in toc -->
+# 🖤 DarkCode Theme <!-- omit in toc -->
 
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/version/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 [![Visual Studio Marketplace Install](https://vsmarketplacebadge.apphb.com/installs/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
@@ -18,6 +18,8 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - 💖 Has [Contributing](CONTRIBUTING.md) guide that explain the color systems is below
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+> 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown)
 
 ## 🎯 Focused <!-- omit in toc -->
 

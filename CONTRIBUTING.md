@@ -23,6 +23,8 @@
 |        | cecece	   | e7e7e7            |
 |    Selection Bacground    | 6b410177	   | aa6600            |
 |   List active higlight     | 413701	   | 411e01            |
+| Buton bg | ad550d (aa) | ? |
+| Buton fore | ececec
 
 ```json
 {
