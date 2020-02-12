@@ -2,6 +2,8 @@
 
 ##  🚀 4.1.2 \(12.02.2019\)
 
+👨‍🔧 Color improvements and error fixing
+
 - 👨‍🎨 Button colors renewed
 - 👨‍🔧 DarkCode - DarkCode Contrast color conversion errors fixed
 - [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) guide added
