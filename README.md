@@ -58,75 +58,75 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ### 🌘 DarkCode
 
-![](res/darkcode.png)
+![](.github/assets/darkcode.png)
 
 ### 🌘 DarkCode+
 
-![](res/darkcode-plus.png)
+![](.github/assets/darkcode-plus.png)
 
 ### 🌘 DarkCode++
 
-![](res/darkcode-plus-plus.png)
+![](.github/assets/darkcode-plus-plus.png)
 
 ### 🌑 DarkCode Contrast
 
-![](res/darkcod-contrast.png)
+![](.github/assets/darkcod-contrast.png)
 
 ### 🌚 DarkCode Contrast+
 
-![](res/darkcode-contrast-plus.png)
+![](.github/assets/darkcode-contrast-plus.png)
 
 ### 🌚 DarkCode Contrast++
 
-![](res/darkcode-contrast-plus-plus.png)
+![](.github/assets/darkcode-contrast-plus-plus.png)
 
 ### 🌔 LightCode
 
-![](res/lightcode.png)
+![](.github/assets/lightcode.png)
 
 ### 🌖 LightCode+
 
-![](res/lightcode-plus.png)
+![](.github/assets/lightcode-plus.png)
 
 ### 🌞 LightCode++
 
-![](res/lightcode-plus-plus.png)
+![](.github/assets/lightcode-plus-plus.png)
 
 ### ☀️ LightCode Contrast
 
-![](res/lightcode-contrast.png)
+![](.github/assets/lightcode-contrast.png)
 
 ### 🌞 LightCode Contrast+
 
-![](res/lightcode-contrast-plus.png)
+![](.github/assets/lightcode-contrast-plus.png)
 
 ### 🌞 LightCode Contrast++
 
-![](res/lightcode-contrast-plus-plus.png)
+![](.github/assets/lightcode-contrast-plus-plus.png)
 
 ## 👨‍💻 What's New in Code Languages
 
 ### 🚀 AutoHotkey Support
 
-![](res/ahk_theme.png)
+![](.github/assets/ahk_theme.png)
 
 ### 👮‍♂️ Item Access
 
-![](res/meta.item-access.png)
+![](.github/assets/meta.item-access.png)
 
 ### 🚗 Function Call Arguments
 
-![](res/meta.function-call.arguments.png)
+![](.github/assets/meta.function-call.arguments.png)
 
 ### ☕ Java and Other Languages Support
 
-![](res/hello_java.png)
+![](.github/assets/hello_java.png)
 
 ## 🐛 Knowed Issue
 
 This issue happend caused by Python tokenizer fault, not theme error 🙂
 
-![](res/item_access.png)
+![](.github/assets/item_access.png)
 
 ## 💖 Support & Contact
 

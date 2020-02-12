@@ -1,13 +1,13 @@
 {
 	"name": "darkcode-theme-adopted-python-and-markdown",
-	"displayName": "🖤🤍 DarkCode Theme",
+	"displayName": "🖤 DarkCode Theme",
 	"description": "༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻",
 	"version": "4.1.2",
 	"publisher": "yedhrab",
 	"engines": {
 		"vscode": "^1.35.0"
 	},
-	"icon": "res/mdpy.png",
+	"icon": "icon.png",
 	"license": "Apache",
 	"categories": [
 		"Themes"
