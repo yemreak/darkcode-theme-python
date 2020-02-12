@@ -1,5 +1,13 @@
 # ✨ Changelog
 
+##  🚀 4.1.2 \(12.02.2019\)
+
+- 👨‍🎨 Button colors renewed
+- 👨‍🔧 DarkCode - DarkCode Contrast color conversion errors fixed
+- [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) guide added
+
+> 👪 Contributing is more easy than before
+
 ##  🚀 4.1.1 \(03.02.2019\)
 
 - 👨‍🎨 Editor slider color is more visible now
