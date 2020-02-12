@@ -2,7 +2,10 @@
 
 🙋‍♂️ Hello, the guide will help you to understand my color systems
 
-> 🏗️ Still under construction..
+## 🚀 Generating More Themes
+
+- 💁‍♂️ Just use [YThemeCreator](https://github.com/yedhrab/YThemeCreator) to generate more DarkCode Themes
+- 👪 Create your own DarkCode theme familiy
 
 ## 👨‍💻 Color System
 
@@ -23,18 +26,8 @@
 |        | cecece	   | e7e7e7            |
 |    Selection Bacground    | 6b410177	   | aa6600            |
 |   List active higlight     | 413701	   | 411e01            |
-
-```json
-{
-    "editorSuggestWidget.border": "#0040ff2c",
-    "editorSuggestWidget.foreground": "#e7b050a2", // 1b5dcfdc
-    "editorSuggestWidget.highlightForeground": "#0040bfb4",
-    "editorSuggestWidget.selectedBackground": "#554f0738",
-    "tab.activeBorderTop": "#003fff",
-    "tab.hoverBackground": "#003fff10",
-    "tab.hoverBorder": "#0026ff70"
-}
-```
+| Buton bg | ad550d (aa) | ? |
+| Buton fore | ececec
 
 ## ✨ Plus Themes
 
