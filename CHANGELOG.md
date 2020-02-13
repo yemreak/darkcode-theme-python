@@ -1,5 +1,14 @@
 # ✨ Changelog
 
+
+## 🚀 4.1.3 \(13.02.2019\)
+
+👨‍🔧 Color improvements and error fixing
+
+- 📈 More effective [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator)
+- 📋 Color list improved
+- 👪 Contributing via [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) is easier than before
+
 ##  🚀 4.1.2 \(12.02.2019\)
 
 👨‍🔧 Color improvements and error fixing
@@ -8,7 +17,7 @@
 - 👨‍🔧 DarkCode - DarkCode Contrast color conversion errors fixed
 - [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) guide added
 
-> 👪 Contributing is more easy than before
+> 👪 Contributing is easier than before
 
 ##  🏷️ 4.1.1 \(03.02.2019\)
 
