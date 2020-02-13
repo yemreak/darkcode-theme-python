@@ -9,25 +9,9 @@
 
 ## 👨‍💻 Color System
 
-- ⚖️ Every DarkCode color hex value equivalent in DarkCode Contrast is given the below
+- ⚖️ Every DarkCode color hex value equivalent in DarkCode Contrast is given in[📜 YThemeCreator/settings.json](https://github.com/yedhrab/YThemeCreator/blob/master/settings.json#L7) file
 - 💫 Light themes are generated from DarkCode by inverting colors with [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator)
 
-| Type   | DarkCode | DarkCode Contrast |
-| ------ | -------- | ----------------- |
-|        | 1c2022	   | 000000            |
-|        | 252b2e	   | 161616            |
-|        | 171a1b	   | 0a0c0c            |
-| Border | 111518	   | 181717            |
-|        | 374140	   | 24211e            |
-|        | 22212b	   | 191824            |
-|        | eeeeee	   | ffee00d3          |
-|        | C0C0C0	   | acacaa            |
-|        | 333333	   | 1f1f1f            |
-|        | cecece	   | e7e7e7            |
-|    Selection Bacground    | 6b410177	   | aa6600            |
-|   List active higlight     | 413701	   | 411e01            |
-| Buton bg | ad550d (aa) | ? |
-| Buton fore | ececec
 
 ## ✨ Plus Themes
 
