@@ -30,30 +30,6 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - ⚛️ React
 - so on...
 
-## 📋 Contents
-
-- [👁‍🗨 Previews](#-previews)
-  - [🌘 DarkCode](#-darkcode-1)
-  - [🌘 DarkCode+](#-darkcode-2)
-  - [🌘 DarkCode++](#-darkcode-3)
-  - [🌑 DarkCode Contrast](#-darkcode-3)
-  - [🌚 DarkCode Contrast+](#-darkcode-contrast-2)
-  - [🌚 DarkCode Contrast++](#-darkcode-contrast-3)
-  - [🌔 LightCode](#-lightcode-1)
-  - [🌖 LightCode+](#-lightcode-2)
-  - [🌞 LightCode++](#-lightcode-3)
-  - [☀️ LightCode Contrast](#%b8%8f-lightcode-contrast-1)
-  - [🌞 LightCode Contrast+](#-lightcode-contrast-2)
-  - [🌞 LightCode Contrast++](#-lightcode-contrast-3)
-- [👨‍💻 What's New in Code Languages](#-whats-new-in-code-languages)
-  - [🚀 AutoHotkey Support](#-autohotkey-support)
-  - [👮‍♂️ Item Access](#-item-access)
-  - [🚗 Function Call Arguments](#-function-call-arguments)
-  - [☕ Java and Other Languages Support](#-java-and-other-languages-support)
-- [🐛 Knowed Issue](#-knowed-issue)
-- [💖 Support & Contact](#-support--contact)
-- [🔏 License](#-license)
-
 ## 👁‍🗨 Previews
 
 ### 🌘 DarkCode
