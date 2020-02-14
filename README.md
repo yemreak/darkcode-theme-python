@@ -94,7 +94,7 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ![](.github/assets/hello_java.png)
 
-## 🐛 Knowed Issue
+## 🐛 Known Issue
 
 This issue happend caused by Python tokenizer fault, not theme error 🙂
 
