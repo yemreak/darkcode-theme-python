@@ -5,7 +5,7 @@
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/darkcode-theme)
 
-༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
+つ ◕_◕ つ Dark theme for cool coders
 
 ## 🙋‍♂️ What's It <!-- omit in toc -->
 
@@ -29,30 +29,6 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
 - ⚛️ React
 - so on...
-
-## 📋 Contents
-
-- [👁‍🗨 Previews](#-previews)
-  - [🌘 DarkCode](#-darkcode-1)
-  - [🌘 DarkCode+](#-darkcode-2)
-  - [🌘 DarkCode++](#-darkcode-3)
-  - [🌑 DarkCode Contrast](#-darkcode-3)
-  - [🌚 DarkCode Contrast+](#-darkcode-contrast-2)
-  - [🌚 DarkCode Contrast++](#-darkcode-contrast-3)
-  - [🌔 LightCode](#-lightcode-1)
-  - [🌖 LightCode+](#-lightcode-2)
-  - [🌞 LightCode++](#-lightcode-3)
-  - [☀️ LightCode Contrast](#%b8%8f-lightcode-contrast-1)
-  - [🌞 LightCode Contrast+](#-lightcode-contrast-2)
-  - [🌞 LightCode Contrast++](#-lightcode-contrast-3)
-- [👨‍💻 What's New in Code Languages](#-whats-new-in-code-languages)
-  - [🚀 AutoHotkey Support](#-autohotkey-support)
-  - [👮‍♂️ Item Access](#-item-access)
-  - [🚗 Function Call Arguments](#-function-call-arguments)
-  - [☕ Java and Other Languages Support](#-java-and-other-languages-support)
-- [🐛 Knowed Issue](#-knowed-issue)
-- [💖 Support & Contact](#-support--contact)
-- [🔏 License](#-license)
 
 ## 👁‍🗨 Previews
 
@@ -106,17 +82,13 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ## 👨‍💻 What's New in Code Languages
 
+### 🐍 Python Support
+
+![](.github/assets/item_access_fstring.png)
+
 ### 🚀 AutoHotkey Support
 
 ![](.github/assets/ahk_theme.png)
-
-### 👮‍♂️ Item Access
-
-![](.github/assets/meta.item-access.png)
-
-### 🚗 Function Call Arguments
-
-![](.github/assets/meta.function-call.arguments.png)
 
 ### ☕ Java and Other Languages Support
 
@@ -130,7 +102,7 @@ This issue happend caused by Python tokenizer fault, not theme error 🙂
 
 ## 💖 Support & Contact
 
-​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto::yedhrab@gmail.com?subject=DarkCode-Theme%20%7C%20Github)​
+​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto:yemreak.com@gmail.com?subject=DarkCode-Theme%20%7C%20GitHub)​
 
 ​[​![Patreon](https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG)](https://www.patreon.com/yemreak/)
 

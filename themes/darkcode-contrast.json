@@ -116,7 +116,16 @@
                 "meta.item-access"
             ],
             "settings": {
-                "foreground": "#e0a2a2f5"
+                "foreground": "#D79C9C"
+            }
+        },
+        {
+            "name": "Item access arguments",
+            "scope": [
+                "meta.item-access.arguments"
+            ],
+            "settings": {
+                "foreground": "#a79e91"
             }
         },
         {
@@ -238,6 +247,13 @@
             "scope": "punctuation.separator.parameters",
             "settings": {
                 "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "Fstring",
+            "scope": "meta.fstring",
+            "settings": {
+                "foreground": "#b38686"
             }
         },
         {
