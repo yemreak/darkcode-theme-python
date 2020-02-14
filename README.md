@@ -82,17 +82,13 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ## 👨‍💻 What's New in Code Languages
 
+### 🐍 Python Support
+
+![](.github/assets/item_access_fstring.png)
+
 ### 🚀 AutoHotkey Support
 
 ![](.github/assets/ahk_theme.png)
-
-### 👮‍♂️ Item Access
-
-![](.github/assets/meta.item-access.png)
-
-### 🚗 Function Call Arguments
-
-![](.github/assets/meta.function-call.arguments.png)
 
 ### ☕ Java and Other Languages Support
 

@@ -1,6 +1,16 @@
 # ✨ Changelog
 
 
+## 🚀 4.1.4 \(14.02.2019\)
+
+👨‍🎨 New code colorizer added
+
+- 🎨 Item access, fstring, item access parameters colors added
+- 📝 Documentation renewed
+- 💦 Unnecessaries removed
+
+> 👨‍🔧 Minor fixing in documentation
+
 ## 🚀 4.1.3 \(13.02.2019\)
 
 👨‍🔧 Color improvements and error fixing
