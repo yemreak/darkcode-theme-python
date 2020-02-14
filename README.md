@@ -5,7 +5,7 @@
 [![VsCode Rating](https://vsmarketplacebadge.apphb.com/rating-star/yedhrab.darkcode-theme-adopted-python-and-markdown.svg)](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/darkcode-theme)
 
-༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
+つ ◕_◕ つ Dark theme for cool coders
 
 ## 🙋‍♂️ What's It <!-- omit in toc -->
 
