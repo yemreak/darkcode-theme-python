@@ -113,5 +113,3 @@ This issue happend caused by Python tokenizer fault, not theme error 🙂
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
 ![YEmreAk](.github/assets/ysigniture-trans.png)
-
-
