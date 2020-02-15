@@ -19,7 +19,7 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
-> 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown)
+> 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown) which shows well
 
 ## 🎯 Focused <!-- omit in toc -->
 
@@ -28,7 +28,22 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - ☕ Java
 - 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
 - ⚛️ React
-- so on...
+
+> so on...
+
+## 👨‍💻 What's New in Code Languages
+
+### 🐍 Python Support
+
+![](.github/assets/item_access_fstring.png)
+
+### 🚀 AutoHotkey Support
+
+![](.github/assets/ahk_theme.png)
+
+### ☕ Java and Other Languages Support
+
+![](.github/assets/hello_java.png)
 
 ## 👁‍🗨 Previews
 
@@ -80,37 +95,23 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ![](.github/assets/lightcode-contrast-plus-plus.png)
 
-## 👨‍💻 What's New in Code Languages
-
-### 🐍 Python Support
-
-![](.github/assets/item_access_fstring.png)
-
-### 🚀 AutoHotkey Support
-
-![](.github/assets/ahk_theme.png)
-
-### ☕ Java and Other Languages Support
-
-![](.github/assets/hello_java.png)
-
 ## 🐛 Known Issue
 
 This issue happend caused by Python tokenizer fault, not theme error 🙂
 
 ![](.github/assets/item_access.png)
 
-## 💖 Support & Contact
 
-​[​![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)​](https://github.com/yedhrab) [​![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)​](https://www.linkedin.com/in/yemreak/) [​![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)​](https://yemreak.com/) [​![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)​](mailto:yemreak.com@gmail.com?subject=DarkCode-Theme%20%7C%20GitHub)​
+## 💖 Support & Contanct
 
-​[​![Patreon](https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG)](https://www.patreon.com/yemreak/)
+​[​![Github](.github/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=DarkCode%20Theme%20%7C%20GitHub)​
 
-## 🔏 Lisans
+​[​![Patreon](.github/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
+
+## 🔏 Licanse
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
-> 🎈 Inspired by [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
+![YEmreAk](.github/assets/ysigniture-trans.png)
 
-![YEmreAk](https://drive.google.com/uc?id=1Wd_YLVOkAhXPVqFMx_aZyFvyTy_88H-Z)
 
