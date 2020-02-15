@@ -1,6 +1,11 @@
 # ✨ Changelog
 
 
+## 👨‍🔬 4.1.5
+
+- 📝 Documentation and contribution renewed
+- 🔨 Configurations files added
+
 ## 🚀 4.1.4 \(14.02.2019\)
 
 👨‍🎨 New code colorizer added
