@@ -3,8 +3,11 @@
 
 ## 👨‍🔬 4.1.5
 
+- 🎨 List hover and select colors are renewed
 - 📝 Documentation and contribution renewed
 - 🔨 Configurations files added
+
+![](.github/assets/list_colors.png)
 
 ## 🚀 4.1.4 \(14.02.2019\)
 

@@ -18,8 +18,9 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 - 💖 Has [Contributing](CONTRIBUTING.md) guide that explain the color systems is below
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown) which shows well
 
-> 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown) which shows well
+> 🙄 Light themes are deprecated
 
 ## 🎯 Focused <!-- omit in toc -->
 
@@ -31,17 +32,21 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 > so on...
 
-## 👨‍💻 What's New in Code Languages
+## 💎 Unique Features
 
-### 🐍 Python Support
+### 📑 More markdown
+
+![](.github/assets/more_markdown.png)
+
+### 🐍 More python
 
 ![](.github/assets/item_access_fstring.png)
 
-### 🚀 AutoHotkey Support
+### 👨‍💻 More autoHotkey
 
 ![](.github/assets/ahk_theme.png)
 
-### ☕ Java and Other Languages Support
+### ☕ More java
 
 ![](.github/assets/hello_java.png)
 
