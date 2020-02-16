@@ -40,11 +40,14 @@
 		"input.background": "#111518", // Arama alanı yazılan yerin rengi
 		"input.foreground": "#C0C0C0",
 		"inputOption.activeBorder": "#ffc000a8",
-		"list.activeSelectionBackground": "#413701",
-		"list.focusBackground": "#413701aa", // Tüm listeler (sağdaki dosya isimleri vs)
-		"list.hoverBackground": "#41370155",
-		"list.hoverForeground": "#eeeeee",
-		"list.inactiveSelectionBackground": "#41370177",
+		"list.activeSelectionBackground": "#41370177", // Seçili liste
+		"list.activeSelectionForeground": "#eeeeee",
+		"list.focusBackground": "#413701ee", // Klavye ile kaydırma
+		"list.focusForeground": "#ffd7a3", // Klavye ile kaydırma
+		"list.hoverBackground": "#413701aa", // Mouse ile kaydırma
+		"list.hoverForeground": "#fff4d1",
+		"list.inactiveSelectionBackground": "#41370155", // Seçili ama aktif olmayan
+		"list.inactiveSelectionForeground": "#eeeeeeee", // Seçili ama aktif olmayan
 		"menu.background": "#1c2022", // Sağ tıkladığımızda çıkan ekran
 		"menu.border": "#413701",
 		"menu.foreground": "#C0C0C0",
