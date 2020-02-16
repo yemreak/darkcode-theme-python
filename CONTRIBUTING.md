@@ -1,22 +1,27 @@
 # 💖 Contributing
 
-🙋‍♂️ Hello, the guide will help you to understand my color systems
+🙋‍♂️ Hello, this guide will help you to understand my theme and my color systems
 
 ## 🚀 Generating More Themes
 
-- 💁‍♂️ Just use [YThemeCreator](https://github.com/yedhrab/YThemeCreator) to generate more DarkCode Themes
-- 👪 Create your own DarkCode theme familiy
+- 💁‍♂️ You can use [YThemeCreator](https://github.com/yedhrab/YThemeCreator) to generate more [DarkCode Themes](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
+- 📦 YThemeCreator is part of [`ypackage`](https://github.com/yedhrab/YPackage) python package
+- ⏬ Downlaod [`ypackage`](https://github.com/yedhrab/YPackage) with `pip install ypackage`
+- 🐣 After installation, just use `ythemecreator -h` command to more usage options
+- ⭐ For ex: `yhemecreator core/settings.json` to create darkcode themes
+
+> 👪 Create your own DarkCode theme familiy
 
 ## 👨‍💻 Color System
 
-- ⚖️ Every DarkCode color hex value equivalent in DarkCode Contrast is given in[📜 YThemeCreator/settings.json](https://github.com/yedhrab/YThemeCreator/blob/master/settings.json#L7) file
-- 💫 Light themes are generated from DarkCode by inverting colors with [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator)
-
+- ⚖️ Every DarkCode color hex value has equivalent value in DarkCode Contrast 
+- 🧮 This formula is given in [📜 core/settings.json](core/settings.json#L7) file
 
 ## ✨ Plus Themes
 
 - ➕ Plus themes has a few additional improvements that are given the below
-- ⭐ Long story short, more yellow color features
+
+> ⭐ Long story short, more yellow color features
 
 ### ➕ One Plus
 
