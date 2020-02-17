@@ -2,6 +2,10 @@
 
 ## 🏷️ 4.1.6
 
+- 🎨 Decorator colorize added
+
+![](.github/assets/decorator_color.png)
+
 ## 🏷️ 4.1.5
 
 ✨ Some color improvements

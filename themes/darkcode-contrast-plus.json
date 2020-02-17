@@ -184,6 +184,15 @@
             }
         },
         {
+            "name": "Function Name",
+            "scope": [
+                "entity.name.function.decorator"
+            ],
+            "settings": {
+                "foreground": "#878b94"
+            }
+        },
+        {
             "name": "Function Call",
             "scope": [
                 "meta.function-call.generic"
