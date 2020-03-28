@@ -10,7 +10,7 @@
 - 🐣 After installation, just use `ythemecreator -h` command to more usage options
 - ⭐ For ex: `yhemecreator core/settings.json` to create darkcode themes
 
-> 👪 Create your own DarkCode theme familiy
+> 👪 Create your own DarkCode theme family
 
 ## 👨‍💻 Color System
 
