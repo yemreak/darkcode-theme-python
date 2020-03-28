@@ -5,16 +5,16 @@
 	"colors": {
 		"activityBar.activeBorder": "#ffc000", // En sağdaki çizgi
 		"activityBar.background": "#1c2022", // En soldaki panel
+		"activityBar.border": "#111518",
 		"activityBar.foreground": "#F2F2F2",
 		"activityBarBadge.background": "#dba827", // En sağdaki bildirimler
 		"activityBarBadge.foreground": "#0d0d00", // En sağdaki bildirimler
-		"activityBar.border": "#111518",
 		"badge.background": "#374140",
 		"breadcrumb.foreground": "#9e9d9d",
 		"button.background": "#ad550daa",
 		"button.foreground": "#ececec",
 		"button.hoverBackground": "#ad550d",
-		"dropdown.background": "#333333",
+		"dropdown.background": "#252526",
 		"dropdown.border": "#FFC00050",
 		"dropdown.foreground": "#C0C0C0",
 		"dropdown.listBackground": "#1c2022",
@@ -28,7 +28,7 @@
 		"editorGroupHeader.tabsBackground": "#171a1b", // Sekzmelerin arkaplanı
 		"editorGroupHeader.tabsBorder": "#111518",
 		"editorHoverWidget.background": "#1c2022",
-		"editorHoverWidget.border": "#ffc000a8", // Mousu bekletince çıkan ekran
+		"editorHoverWidget.border": "#ffc000aa", // Mousu bekletince çıkan ekran
 		"editorHoverWidget.foreground": "#C0C0C0",
 		"editorLineNumber.foreground": "#858585",
 		"editorSuggestWidget.background": "#1c2022",
@@ -39,13 +39,12 @@
 		"icon.foreground": "#e9dfd8", // Arama alanı butonları vs
 		"input.background": "#111518", // Arama alanı yazılan yerin rengi
 		"input.foreground": "#C0C0C0",
-		"inputOption.activeBorder": "#ffc000a8",
+		"inputOption.activeBorder": "#ffc000aa",
 		"list.activeSelectionBackground": "#41370177", // Seçili liste
 		"list.activeSelectionForeground": "#eeeeee",
 		"list.focusBackground": "#413701ee", // Klavye ile kaydırma
 		"list.focusForeground": "#ffd7a3", // Klavye ile kaydırma
-		"list.hoverBackground": "#413701aa", // Mouse ile kaydırma
-		"list.hoverForeground": "#fff4d1",
+		"list.hoverBackground": "#41370177", // Mouse ile kaydırma
 		"list.inactiveSelectionBackground": "#41370155", // Seçili ama aktif olmayan
 		"list.inactiveSelectionForeground": "#eeeeeeee", // Seçili ama aktif olmayan
 		"menu.background": "#1c2022", // Sağ tıkladığımızda çıkan ekran
@@ -56,23 +55,28 @@
 		"menubar.selectionBackground": "#eeeeee10",
 		"menubar.selectionForeground": "#eeeeee",
 		"notificationCenter.border": "#ffc000",
-		"notifications.background": "#1c2022", // Sağ alt köşeddeki 🔔
-		"notifications.border": "#ffc000a8",
 		"notificationToast.border": "#FFC00050",
+		"notifications.background": "#1c2022", // Sağ alt köşeddeki 🔔
+		"notifications.border": "#ffc000aa",
 		"panel.background": "#1c2022", // Terminal üstündeki alan bg
 		"panel.border": "#111518", // Terminal üstündeki Up - Editor Down border
 		"panelTitle.activeBorder": "#ffc000", // Terminal üstündeki selected tab
 		"panelTitle.activeForeground": "#cecece",
 		"panelTitle.inactiveForeground": "#a09e9e", // Terminal üstündeki tabs
-		"peekViewEditor.background": "#111518",
-		"peekViewEditorGutter.background": "#333333",
-		"pickerGroup.border": "#ffc000a8",
+		"peekView.border": "#ffc000aa",
+		"peekViewEditor.background": "#252526",
+		"peekViewEditor.matchHighlightBackground": "#413701",
+		"peekViewEditorGutter.background": "#252526",
+		"peekViewResult.background": "#252526",
+		"peekViewResult.matchHighlightBackground": "#413701",
+		"peekViewTitle.background": "#252526",
+		"pickerGroup.border": "#ffc000aa",
 		"pickerGroup.foreground": "#ffa837",
 		"scrollbarSlider.activeBackground": "#374140", // kaydırma çubuğu
 		"scrollbarSlider.background": "#252b2e",
 		"scrollbarSlider.hoverBackground": "#374140",
-		"settings.numberInputBackground": "#333333",
-		"settings.textInputBackground": "#333333",
+		"settings.numberInputBackground": "#252526",
+		"settings.textInputBackground": "#252526",
 		"sideBar.background": "#1c2022", // soldaki panel
 		"sideBar.border": "#111518",
 		"sideBar.foreground": "#C0C0C0",

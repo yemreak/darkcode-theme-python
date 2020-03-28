@@ -1,6 +1,12 @@
 # ✨ Changelog
 
-## 🏷️ 4.1.6
+## 🚀 4.1.6
+
+- ✨ More visual keyboard improvement
+- 👨‍🎨 Peek view resdesigned
+
+![](.github/assets/editor_suggest_widget_design.png)
+![](.github/assets/peekview_design.png)
 
 ## 🏷️ 4.1.5
 
@@ -12,15 +18,7 @@
 
 ![](.github/assets/list_colors.png)
 
-## 👨‍🔬 4.1.5
-
-- 🎨 List hover and select colors are renewed
-- 📝 Documentation and contribution renewed
-- 🔨 Configurations files added
-
-![](.github/assets/list_colors.png)
-
-## 🚀 4.1.4 \(14.02.2019\)
+## 🏷️ 4.1.4 \(14.02.2019\)
 
 👨‍🎨 New code colorizer added
 
@@ -30,7 +28,7 @@
 
 > 👨‍🔧 Minor fixing in documentation
 
-## 🚀 4.1.3 \(13.02.2019\)
+## 🏷️ 4.1.3 \(13.02.2019\)
 
 👨‍🔧 Color improvements and error fixing
 
@@ -38,7 +36,7 @@
 - 📋 Color list improved
 - 👪 Contributing via [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) is easier than before
 
-##  🚀 4.1.2 \(12.02.2019\)
+##  🏷️ 4.1.2 \(12.02.2019\)
 
 👨‍🔧 Color improvements and error fixing
 
