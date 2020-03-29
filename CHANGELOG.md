@@ -4,9 +4,13 @@
 
 - ✨ More visual keyboard improvement
 - 👨‍🎨 Peek view resdesigned
+- 🤝 Inherited class support
 
 ![](.github/assets/editor_suggest_widget_design.png)
 ![](.github/assets/peekview_design.png)
+![](.github/assets/inherited_class_support.png)
+
+> 🙄 If you don't have one of them please reinstall
 
 ## 🏷️ 4.1.5
 
