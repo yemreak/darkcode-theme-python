@@ -140,11 +140,27 @@
                 "support.type",
                 "support.class",
                 "support.function.magic",
-                "support.variable",
-                "keyword.operator"
+                "support.variable"
             ],
             "settings": {
                 "foreground": "#76b0b8"
+            }
+        },
+        {
+            "name": "Support, decorator and operator",
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#c1e1e6"
+            }
+        },
+        {
+            "name": "Support, decorator and operator",
+            "scope": [
+                "punctuation.separator.annotation",
+                "constant.character.format.placeholder"
+            ],
+            "settings": {
+                "foreground": "#a5c1c5"
             }
         },
         {
@@ -581,15 +597,6 @@
             }
         },
         {
-            "name": "Keyword Operator",
-            "scope": [
-                "keyword.operator"
-            ],
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
             "name": "Keyword Other Special Method",
             "scope": [
                 "keyword.other.special-method"
@@ -760,20 +767,6 @@
             ],
             "settings": {
                 "foreground": "#5C6370"
-            }
-        },
-        {
-            "name": "Punctuation Definition Method Parameters,punctuation Definition Function Parameters,punctuation Definition Parameters,punctuation Definition Separator,punctuation Definition Separator,punctuation Definition Array",
-            "scope": [
-                "punctuation.definition.method-parameters",
-                "punctuation.definition.function-parameters",
-                "punctuation.definition.parameters",
-                "punctuation.definition.separator",
-                "punctuation.definition.separator",
-                "punctuation.definition.array"
-            ],
-            "settings": {
-                "foreground": "#ABB2BF"
             }
         },
         {
@@ -1271,6 +1264,18 @@
             "scope": "support.type.property-name.json punctuation",
             "settings": {
                 "foreground": "#E06C75"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] JSON Punctuation for Definition",
+            "scope": [
+                "punctuation.definition.array",
+                "punctuation.separator.array",
+                "punctuation.definition.dictionary",
+                "punctuation.separator.dictionary"
+            ],
+            "settings": {
+                "foreground": "#ABB2BF"
             }
         },
         {
