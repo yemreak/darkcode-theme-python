@@ -13,14 +13,13 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
-- 🤍 Fresh Light Theme
 - ✨ More colorful syntax highlighting
 - 💖 Has [Contributing](CONTRIBUTING.md) guide that explain the color systems is below
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - 👀 You can also look themes [there](https://vscodethemes.com/e/yedhrab.darkcode-theme-adopted-python-and-markdown) which shows well
 
-> 🙄 Light themes are deprecated
+> 💦 Light themes are removed
 
 ## 🎯 Focused <!-- omit in toc -->
 
@@ -77,33 +76,9 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ![](.github/assets/darkcode-contrast-plus-plus.png)
 
-### 🌔 LightCode
-
-![](.github/assets/lightcode.png)
-
-### 🌖 LightCode+
-
-![](.github/assets/lightcode-plus.png)
-
-### 🌞 LightCode++
-
-![](.github/assets/lightcode-plus-plus.png)
-
-### ☀️ LightCode Contrast
-
-![](.github/assets/lightcode-contrast.png)
-
-### 🌞 LightCode Contrast+
-
-![](.github/assets/lightcode-contrast-plus.png)
-
-### 🌞 LightCode Contrast++
-
-![](.github/assets/lightcode-contrast-plus-plus.png)
-
 ## 🐛 Known Issue
 
-This issue happend caused by Python tokenizer fault, not theme error 🙂
+This issue happen caused by Python tokenizer fault, not theme error 🙂
 
 ![](.github/assets/item_access.png)
 
