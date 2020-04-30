@@ -30,14 +30,7 @@
 		"markdown",
 		"python",
 		"autohotkey",
-		"java",
-		"light",
-		"light code",
-		"lightcode",
-		"light theme",
-		"lightest",
-		"deep light",
-		"deep white"
+		"java"
 	],
 	"repository": {
 		"type": "git",
@@ -46,64 +39,34 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "🌘 DarkCode",
+				"label": "🌑 DarkCode",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode.json"
 			},
 			{
-				"label": "🌘 DarkCode+",
+				"label": "🌓 DarkCode+",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode-plus.json"
 			},
 			{
-				"label": "🌘 DarkCode++",
+				"label": "🌛 DarkCode++",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode-plus-plus.json"
 			},
 			{
-				"label": "🌑 DarkCode Contrast",
+				"label": "🌒 DarkCode Contrast",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode-contrast.json"
 			},
 			{
-				"label": "🌚 DarkCode Contrast+",
+				"label": "🌘 DarkCode Contrast+",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode-contrast-plus.json"
 			},
 			{
-				"label": "🌚 DarkCode Contrast++",
+				"label": "🌜 DarkCode Contrast++",
 				"uiTheme": "vs-dark",
 				"path": "./themes/darkcode-contrast-plus-plus.json"
-			},
-			{
-				"label": "🌔 LightCode",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode.json"
-			},
-			{
-				"label": "🌖 LightCode+",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode-plus.json"
-			},
-			{
-				"label": "🌖 LightCode++",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode-plus-plus.json"
-			},
-			{
-				"label": "☀️ LightCode Contrast",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode-contrast.json"
-			},
-			{
-				"label": "🌞 LightCode Contrast+",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode-contrast-plus.json"
-			},
-			{
-				"label": "🌞 LightCode Contrast++",
-				"uiTheme": "vs",
-				"path": "./themes/lightcode-contrast-plus-plus.json"
 			}
 		]
 	}

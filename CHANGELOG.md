@@ -4,8 +4,10 @@
 
 - 👨‍🎨 More colors
 - 💦 No **unsupported** light themes any more
+- 💜 Debug background and border color renewed
 
 ![](.github/assets/4_1_6_vs_4_2_0.png)
+![](.github/assets/debug_background.png)
 ![](.github/assets/new_terminal_vs_old_one.png)
 ![](.github/assets/inherited_class_color.png)
 ![](.github/assets/parenthesis_and_decorator_color.png)
