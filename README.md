@@ -41,6 +41,7 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 ### 🐍 More python
 
 ![](.github/assets/item_access_fstring.png)
+![](.github/assets/4_1_6_vs_4_1_7.png)
 
 ### 👨‍💻 More autoHotkey
 

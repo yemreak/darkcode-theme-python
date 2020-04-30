@@ -1,6 +1,18 @@
 # ✨ Changelog
 
-## 🚀 4.1.6
+## 🚀 4.2.0
+
+- 👨‍🎨 More colors
+- 💦 No **unsupported** light themes any more
+
+![](.github/assets/4_1_6_vs_4_2_0.png)
+![](.github/assets/new_terminal_vs_old_one.png)
+![](.github/assets/inherited_class_color.png)
+![](.github/assets/parenthesis_and_decorator_color.png)
+![](.github/assets/decorator_magic_and_operator_color.png)
+![](.github/assets/item_access_and_list_parenthesis_color.png)
+
+## 🏷️ 4.1.6
 
 - ✨ More visual keyboard improvement
 - 👨‍🎨 Peek view resdesigned
