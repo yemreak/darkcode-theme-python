@@ -157,7 +157,8 @@
             "name": "Support, decorator and operator",
             "scope": [
                 "punctuation.separator.annotation",
-                "constant.character.format.placeholder"
+                "constant.character.format.placeholder",
+                "punctuation.section.embedded"
             ],
             "settings": {
                 "foreground": "#a5c1c5"
@@ -797,15 +798,6 @@
             "settings": {
                 "foreground": "#C678DD",
                 "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "Punctuation Section Embedded",
-            "scope": [
-                "punctuation.section.embedded"
-            ],
-            "settings": {
-                "foreground": "#BE5046"
             }
         },
         {
@@ -1655,18 +1647,6 @@
                 "source.jsx meta.tag.jsx keyword.operator",
                 "source.ts meta.tag.ts keyword.operator",
                 "source.tsx meta.tag.tsx keyword.operator"
-            ],
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] JS/TS Meta Tag Punctuation",
-            "scope": [
-                "meta.tag.js punctuation.section.embedded",
-                "meta.tag.jsx punctuation.section.embedded",
-                "meta.tag.ts punctuation.section.embedded",
-                "meta.tag.tsx punctuation.section.embedded"
             ],
             "settings": {
                 "foreground": "#ABB2BF"
