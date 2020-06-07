@@ -25,10 +25,10 @@
 		"editor.selectionBackground": "#6b410177", // Seçili metnin arka planı
 		"editorCursor.foreground": "#f8f8f0",
 		"editorGroup.border": "#111518", // 2 editör arasındaki çizgi
-		"editorGroupHeader.tabsBackground": "#171a1b", // Sekzmelerin arkaplanı
+		"editorGroupHeader.tabsBackground": "#171a1b", // Sekmelerin arka planı
 		"editorGroupHeader.tabsBorder": "#111518",
 		"editorHoverWidget.background": "#1c2022",
-		"editorHoverWidget.border": "#ffc000aa", // Mousu bekletince çıkan ekran
+		"editorHoverWidget.border": "#ffc000aa", // Fare bekletince çıkan ekran
 		"editorHoverWidget.foreground": "#C0C0C0",
 		"editorLineNumber.foreground": "#858585",
 		"editorSuggestWidget.background": "#1c2022",
@@ -56,7 +56,7 @@
 		"menubar.selectionForeground": "#eeeeee",
 		"notificationCenter.border": "#ffc000",
 		"notificationToast.border": "#FFC00050",
-		"notifications.background": "#1c2022", // Sağ alt köşeddeki 🔔
+		"notifications.background": "#1c2022", // Sağ alt köşedeki 🔔
 		"notifications.border": "#ffc000aa",
 		"panel.background": "#1c2022", // Terminal üstündeki alan bg
 		"panel.border": "#111518", // Terminal üstündeki Up - Editor Down border
@@ -80,7 +80,7 @@
 		"sideBar.background": "#1c2022", // soldaki panel
 		"sideBar.border": "#111518",
 		"sideBar.foreground": "#C0C0C0",
-		"sideBarSectionHeader.background": "#252b2e", // Soldaki paneldeki başlıklarr
+		"sideBarSectionHeader.background": "#252b2e", // Soldaki paneldeki başlıklar
 		"sideBarSectionHeader.foreground": "#C0C0C0",
 		"sideBarTitle.foreground": "#cecece",
 		"statusBar.background": "#22212b",
@@ -126,6 +126,24 @@
 	},
 	"tokenColors": [
 		// ----------- Start Code Colors -----------
+		{
+			"name": "Attribute",
+			"scope": [
+				"meta.attribute"
+			],
+			"settings": {
+				"foreground": "#a7a7b9"
+			}
+		},
+		{
+			"name": "Indexed name",
+			"scope": [
+				"meta.indexed-name"
+			],
+			"settings": {
+				"foreground": "#c7b49b"
+			}
+		},
 		{
 			"name": "Support, decorator and operator",
 			"scope": [
@@ -557,7 +575,7 @@
 				"meta"
 			],
 			"settings": {
-				"foreground": "#e4e4e4"
+				"foreground": "#BABABA"
 			}
 		},
 		{
@@ -1651,7 +1669,6 @@
 				"foreground": "#ABB2BF"
 			}
 		},
-		
 		{
 			"name": "[VSCODE-CUSTOM] JS/TS Meta Array Literal Variable",
 			"scope": [

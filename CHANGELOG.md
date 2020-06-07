@@ -1,6 +1,14 @@
 # ✨ Changelog
 
-## 🚀 4.2.0
+## 🚀 4.2.1
+
+- 👨‍🎨 More colors
+- 🐍 Python preview tokenize support added
+- 👨‍🔧 Meta color fixed (same as source color)
+
+![](.github/assets/changelog-4_2_1.png)
+
+## 🏷️ 4.2.0
 
 - 👨‍🎨 More colors
 - 💦 No **unsupported** light themes any more

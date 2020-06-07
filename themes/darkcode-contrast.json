@@ -126,6 +126,24 @@
     },
     "tokenColors": [
         {
+            "name": "Attribute",
+            "scope": [
+                "meta.attribute"
+            ],
+            "settings": {
+                "foreground": "#a7a7b9"
+            }
+        },
+        {
+            "name": "Indexed name",
+            "scope": [
+                "meta.indexed-name"
+            ],
+            "settings": {
+                "foreground": "#c7b49b"
+            }
+        },
+        {
             "name": "Support, decorator and operator",
             "scope": [
                 "entity.name.function.decorator",
@@ -551,7 +569,7 @@
                 "meta"
             ],
             "settings": {
-                "foreground": "#e4e4e4"
+                "foreground": "#BABABA"
             }
         },
         {
