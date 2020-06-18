@@ -1,6 +1,12 @@
 # ✨ Changelog
 
-## 🚀 4.2.1
+## 🚀 4.2.2
+
+- 👨‍🎨 More markdown colors
+
+![](.github/assets/v4.2.2.png)
+
+## 🏷️ 4.2.1
 
 - 👨‍🎨 More colors
 - 🐍 Python preview tokenize support added

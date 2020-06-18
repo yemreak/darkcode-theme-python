@@ -338,12 +338,32 @@
             }
         },
         {
-            "name": "[VSCODE-CUSTOM] Markdown headings",
+            "name": "Markdown section",
             "scope": [
                 "entity.name.section.markdown"
             ],
             "settings": {
-                "foreground": "#eaec74"
+                "foreground": "#ffd17b"
+            }
+        },
+        {
+            "name": "Markdown link title and desciption",
+            "scope": [
+                "string.other.link.title.markdown",
+                "string.other.link.description.markdown"
+            ],
+            "settings": {
+                "foreground": "#a0bffd"
+            }
+        },
+        {
+            "name": "Markdown punctuation",
+            "scope": [
+                "punctuation.definition.string.end.markdown",
+                "punctuation.definition.string.begin.markdown"
+            ],
+            "settings": {
+                "foreground": "#a0bffd77"
             }
         },
         {
@@ -367,27 +387,6 @@
             "scope": "beginning.punctuation.definition.list.markdown",
             "settings": {
                 "foreground": "#E06C75"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
-            "scope": [
-                "punctuation.definition.string.begin.markdown",
-                "punctuation.definition.string.end.markdown",
-                "punctuation.definition.metadata.markdown"
-            ],
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-            "scope": [
-                "string.other.link.title.markdown",
-                "string.other.link.description.markdown"
-            ],
-            "settings": {
-                "foreground": "#61AFEF"
             }
         },
         {
