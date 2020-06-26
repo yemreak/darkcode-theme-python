@@ -1,0 +1,61 @@
+{
+	"coreTheme": "./lightcode.json",
+	"outputDir": "../themes",
+	"extensions": [
+		{
+			"postname": "+",
+			"postfix": "-plus",
+			"options": {
+				"editorSuggestWidget.border": "#bec8fe",
+				"editorSuggestWidget.foreground": "#4474ed",
+				"editorSuggestWidget.highlightForeground": "#0040bfb4",
+				"editorSuggestWidget.selectedBackground": "#bec8feee",
+				"tab.activeBorderTop": "#003fff",
+				"tab.hoverBackground": "#003fff10",
+				"tab.hoverBorder": "#0026ff70"
+			}
+		},
+		{
+			"postname": "++",
+			"postfix": "-plus-plus",
+			"options": {
+				"editorSuggestWidget.border": "#bec8fe",
+				"editorSuggestWidget.foreground": "#4474ed",
+				"editorSuggestWidget.highlightForeground": "#0040bfb4",
+				"editorSuggestWidget.selectedBackground": "#bec8feee",
+				"tab.activeBorderTop": "#003fff",
+				"tab.hoverBackground": "#003fff10",
+				"tab.hoverBorder": "#0026ff70",
+				"editorHoverWidget.foreground": "#4474ed",
+				"menu.foreground": "#4474ed",
+				"titleBar.activeForeground": "#4474ed"
+			}
+		}
+	],
+	"themes": [
+		{
+			"name": "LightCode Contrast",
+			"colors": {
+				"#eeeeee": "#ffffff",
+				"#c0b19e": "#cccccc",
+				"#e8e5e4": "#f5f3f3",
+				"#eeeae7": "#f9f9f9",
+				"#c8bebf": "#dbdee1",
+				"#ddded4": "#e6e7db",
+				"#111111": "#000000",
+				"#00285c": "#001229",
+				"#000b2e": "#03060f",
+				"#3f3f3f": "#535355",
+				"#dadad9": "#f9f9f9",
+				"#313131": "#181818",
+				"#94befe": "#5599ff",
+				"#bec8fe": "#bee1fe",
+				"#52aaf2": "#52aaf2",
+				"#131313": "#131313",
+				"#454545": "#454545",
+				"#003fff": "#003fff",
+				"#4474ed": "#4474ed"
+			}
+		}
+	]
+}

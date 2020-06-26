@@ -30,7 +30,7 @@
         "editorHoverWidget.background": "#000000",
         "editorHoverWidget.border": "#ffc000aa",
         "editorHoverWidget.foreground": "#acacaa",
-        "editorLineNumber.foreground": "#858585",
+        "editorLineNumber.foreground": "#61605c",
         "editorSuggestWidget.background": "#000000",
         "editorWhitespace.foreground": "#262626",
         "editorWidget.background": "#000000ee",
@@ -72,15 +72,15 @@
         "peekViewTitle.background": "#1f1f1f",
         "pickerGroup.border": "#ffc000aa",
         "pickerGroup.foreground": "#ffa837",
-        "scrollbarSlider.activeBackground": "#24211e",
-        "scrollbarSlider.background": "#161616",
-        "scrollbarSlider.hoverBackground": "#24211e",
+        "scrollbarSlider.activeBackground": "#61605c",
+        "scrollbarSlider.background": "#61605c67",
+        "scrollbarSlider.hoverBackground": "#61605c",
         "settings.numberInputBackground": "#1f1f1f",
         "settings.textInputBackground": "#1f1f1f",
         "sideBar.background": "#000000",
         "sideBar.border": "#181717",
         "sideBar.foreground": "#acacaa",
-        "sideBarSectionHeader.background": "#161616",
+        "sideBarSectionHeader.background": "#1f1f1f",
         "sideBarSectionHeader.foreground": "#acacaa",
         "sideBarTitle.foreground": "#e7e7e7",
         "statusBar.background": "#191824",
@@ -105,13 +105,11 @@
         "terminal.ansiBrightBlue": "#82aaff",
         "terminal.ansiBrightCyan": "#89ddff",
         "terminal.ansiBrightGreen": "#6de095",
-        "terminal.ansiBrightPurple": "#c792ea",
         "terminal.ansiBrightRed": "#e42b27",
         "terminal.ansiBrightWhite": "#ffffff",
         "terminal.ansiBrightYellow": "#f8c142",
         "terminal.ansiCyan": "#89ddff",
         "terminal.ansiGreen": "#73bc62",
-        "terminal.ansiPurple": "#c792ea",
         "terminal.ansiRed": "#d82f2c",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiYellow": "#e2a24c",
@@ -488,15 +486,6 @@
             ],
             "settings": {
                 "foreground": "#98C379"
-            }
-        },
-        {
-            "name": "Source Gfm Markup",
-            "scope": [
-                "source.gfm markup"
-            ],
-            "settings": {
-                "-webkit-font-smoothing": "auto"
             }
         },
         {
@@ -953,7 +942,6 @@
                 "meta.separator"
             ],
             "settings": {
-                "background": "#373B41",
                 "foreground": "#ABB2BF"
             }
         },
@@ -972,7 +960,7 @@
                 "underline"
             ],
             "settings": {
-                "text-decoration": "underline"
+                "fontStyle": "underline"
             }
         },
         {
@@ -990,8 +978,7 @@
                 "invalid.deprecated"
             ],
             "settings": {
-                "foreground": "#523D14",
-                "background": "#E0C285"
+                "foreground": "#523D14"
             }
         },
         {
@@ -1000,8 +987,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "white",
-                "background": "#E05252"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -1185,15 +1171,6 @@
             ],
             "settings": {
                 "foreground": "#56B6C2"
-            }
-        },
-        {
-            "name": "Source Ruby Constant Other Symbol > Punctuation",
-            "scope": [
-                "source.ruby constant.other.symbol > punctuation"
-            ],
-            "settings": {
-                "foreground": "inherit"
             }
         },
         {

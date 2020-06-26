@@ -1,6 +1,17 @@
 # ✨ Changelog
 
-## 🚀 4.2.2
+## 🚀 4.3.0
+
+- ☀️ LightCode themes are come back!
+- 👨‍🔧 Minor fixes
+- 👨‍🎨 ScrollSlider and editor line numbers colors are improved
+
+![](.github/assets/lightcode_themes.png)
+![](.github/assets/lightcode_contrast_theme.png)
+![](.github/assets/lightcode_theme.png)
+
+
+## 🏷️ 4.2.2
 
 - 👨‍🎨 More markdown colors
 

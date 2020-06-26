@@ -14,7 +14,7 @@
         "button.background": "#ad550daa",
         "button.foreground": "#ececec",
         "button.hoverBackground": "#ad550d",
-        "dropdown.background": "#252526",
+        "dropdown.background": "#252b2e",
         "dropdown.border": "#FFC00050",
         "dropdown.foreground": "#C0C0C0",
         "dropdown.listBackground": "#1c2022",
@@ -30,7 +30,7 @@
         "editorHoverWidget.background": "#1c2022",
         "editorHoverWidget.border": "#ffc000aa",
         "editorHoverWidget.foreground": "#C0C0C0",
-        "editorLineNumber.foreground": "#858585",
+        "editorLineNumber.foreground": "#61605c",
         "editorSuggestWidget.background": "#1c2022",
         "editorWhitespace.foreground": "#262626",
         "editorWidget.background": "#1c2022ee",
@@ -64,19 +64,19 @@
         "panelTitle.activeForeground": "#cecece",
         "panelTitle.inactiveForeground": "#a09e9e",
         "peekView.border": "#ffc000aa",
-        "peekViewEditor.background": "#252526",
+        "peekViewEditor.background": "#252b2e",
         "peekViewEditor.matchHighlightBackground": "#413701",
-        "peekViewEditorGutter.background": "#252526",
-        "peekViewResult.background": "#252526",
+        "peekViewEditorGutter.background": "#252b2e",
+        "peekViewResult.background": "#252b2e",
         "peekViewResult.matchHighlightBackground": "#413701",
-        "peekViewTitle.background": "#252526",
+        "peekViewTitle.background": "#252b2e",
         "pickerGroup.border": "#ffc000aa",
         "pickerGroup.foreground": "#ffa837",
-        "scrollbarSlider.activeBackground": "#374140",
-        "scrollbarSlider.background": "#252b2e",
-        "scrollbarSlider.hoverBackground": "#374140",
-        "settings.numberInputBackground": "#252526",
-        "settings.textInputBackground": "#252526",
+        "scrollbarSlider.activeBackground": "#61605c",
+        "scrollbarSlider.background": "#61605c67",
+        "scrollbarSlider.hoverBackground": "#61605c",
+        "settings.numberInputBackground": "#252b2e",
+        "settings.textInputBackground": "#252b2e",
         "sideBar.background": "#1c2022",
         "sideBar.border": "#111518",
         "sideBar.foreground": "#C0C0C0",
@@ -105,13 +105,11 @@
         "terminal.ansiBrightBlue": "#82aaff",
         "terminal.ansiBrightCyan": "#89ddff",
         "terminal.ansiBrightGreen": "#6de095",
-        "terminal.ansiBrightPurple": "#c792ea",
         "terminal.ansiBrightRed": "#e42b27",
         "terminal.ansiBrightWhite": "#ffffff",
         "terminal.ansiBrightYellow": "#f8c142",
         "terminal.ansiCyan": "#89ddff",
         "terminal.ansiGreen": "#73bc62",
-        "terminal.ansiPurple": "#c792ea",
         "terminal.ansiRed": "#d82f2c",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiYellow": "#e2a24c",
@@ -488,15 +486,6 @@
             ],
             "settings": {
                 "foreground": "#98C379"
-            }
-        },
-        {
-            "name": "Source Gfm Markup",
-            "scope": [
-                "source.gfm markup"
-            ],
-            "settings": {
-                "-webkit-font-smoothing": "auto"
             }
         },
         {
@@ -953,7 +942,6 @@
                 "meta.separator"
             ],
             "settings": {
-                "background": "#373B41",
                 "foreground": "#ABB2BF"
             }
         },
@@ -972,7 +960,7 @@
                 "underline"
             ],
             "settings": {
-                "text-decoration": "underline"
+                "fontStyle": "underline"
             }
         },
         {
@@ -990,8 +978,7 @@
                 "invalid.deprecated"
             ],
             "settings": {
-                "foreground": "#523D14",
-                "background": "#E0C285"
+                "foreground": "#523D14"
             }
         },
         {
@@ -1000,8 +987,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "white",
-                "background": "#E05252"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -1185,15 +1171,6 @@
             ],
             "settings": {
                 "foreground": "#56B6C2"
-            }
-        },
-        {
-            "name": "Source Ruby Constant Other Symbol > Punctuation",
-            "scope": [
-                "source.ruby constant.other.symbol > punctuation"
-            ],
-            "settings": {
-                "foreground": "inherit"
             }
         },
         {
