@@ -8,14 +8,20 @@
 - 📦 YThemeCreator is part of [`ypackage`](https://github.com/yedhrab/YPackage) python package
 - ⏬ Downlaod [`ypackage`](https://github.com/yedhrab/YPackage) with `pip install ypackage`
 - 🐣 After installation, just use `ythemecreator -h` command to more usage options
-- ⭐ For ex: `yhemecreator core/settings.json` to create darkcode themes
+- ⭐ For ex: `ythemecreator.exe ./core/dark-settings.json` to create darkcode themes
 
 > 👪 Create your own DarkCode theme family
+
+## 📦 Packaging Extension
+
+- Install Nodejs
+- Install vsce with `npm install -g vsce` command
+- Create `.vsix` with `vsce package` command
 
 ## 👨‍💻 Color System
 
 - ⚖️ Every DarkCode color hex value has equivalent value in DarkCode Contrast 
-- 🧮 This formula is given in [📜 core/settings.json](core/settings.json#L7) file
+- 🧮 This formula is given in [📜 ./core/dark-settings.json](./core/dark-settings.json) file
 
 ## ✨ Plus Themes
 

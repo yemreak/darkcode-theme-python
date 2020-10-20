@@ -330,6 +330,25 @@
                 "foreground": "#4c7979"
             }
         },
+        {
+			"name": "Docstring",
+			"scope": [
+				"string.quoted.docstring"
+			],
+			"settings": {
+				"foreground": "#955ebc"
+			}
+		},
+		{
+			"name": "Codetag Notation",
+			"scope": [
+				"keyword.codetag.notation.python"
+			],
+			"settings": {
+				"foreground": "#4c80e2",
+				"fontStyle": "italic bold underline"
+			}
+		},
         // ----------- Start Code Colors -----------
         // ----------- Start Markdown Colors -----------
         {

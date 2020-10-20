@@ -13,7 +13,7 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
-- ✨ More colorful syntax highlighting
+- ✨ More colorful syntax highlighting (espacially for python 🐍)
 - 💖 Has [Contributing](CONTRIBUTING.md) guide that explain the color systems is below
 - [👨‍💻 Color system](CONTRIBUTING.md##%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-color-system) (instead of randomization)
 - 🤝 Nice with [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -23,10 +23,10 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ## 🎯 Focused <!-- omit in toc -->
 
-- 📑 Markdown
 - 🐍 Python
-- ☕ Java
+- 📑 Markdown
 - 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
+- ☕ Java
 - ⚛️ React
 
 > so on...

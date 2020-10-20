@@ -336,6 +336,25 @@
             }
         },
         {
+            "name": "Docstring",
+            "scope": [
+                "string.quoted.docstring"
+            ],
+            "settings": {
+                "foreground": "#955ebc"
+            }
+        },
+        {
+            "name": "Codetag Notation",
+            "scope": [
+                "keyword.codetag.notation.python"
+            ],
+            "settings": {
+                "foreground": "#4c80e2",
+                "fontStyle": "italic bold underline"
+            }
+        },
+        {
             "name": "Markdown section",
             "scope": [
                 "entity.name.section.markdown"
