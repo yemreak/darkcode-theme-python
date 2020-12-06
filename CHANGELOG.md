@@ -1,12 +1,18 @@
 # ✨ Changelog
 
-## 🚀 4.3.1 (10/20/2020)
+## 🚀 4.3.1 (12/06/2020)
+
+- ⭐ Icon renewed
+
+![](.github/assets/icon.png)
+
+## 🏷️ 4.3.1 (10/20/2020)
 
 - 🎨 Codetag and docstring color support
 
 ![](.github/assets/2020-10-20-13-33-43.png)
 
-## 🚀 4.3.0
+## 🏷️ 4.3.0
 
 - ☀️ LightCode themes are come back!
 - 👨‍🔧 Minor fixes
