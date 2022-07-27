@@ -1,6 +1,6 @@
 # ✨ Changelog
 
-## 🏷  4.3.2 (27 Jul 2022)
+## 🏷  4.3.3 (27 Jul 2022)
 
 - `Exception` are also had custom colors.
 
