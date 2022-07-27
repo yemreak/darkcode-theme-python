@@ -124,6 +124,15 @@
     },
     "tokenColors": [
         {
+            "name": "Python exceptions",
+            "scope": [
+                "support.type.exception.python"
+            ],
+            "settings": {
+                "foreground": "#1fabce"
+            }
+        },
+        {
             "name": "Attribute",
             "scope": [
                 "meta.attribute"

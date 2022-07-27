@@ -1,5 +1,13 @@
 # ✨ Changelog
 
+## 🏷  4.3.2 (27 Jul 2022)
+
+- `Exception` are also had custom colors.
+
+![4.3.2 vs 4.3.1](.github/assets/4.3.2-vs-4.3.1.png)
+
+> 💁‍♂️ Light theme olsa updated.
+
 ## 🚀 4.3.1 (12/06/2020)
 
 - ⭐ Icon renewed

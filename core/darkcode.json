@@ -126,6 +126,15 @@
 	"tokenColors": [
 		// ----------- Start Code Colors -----------
 		{
+			"name": "Exceptions",
+			"scope": [
+				"support.type.exception"
+			],
+			"settings": {
+				"foreground": "#E05431"
+			}
+		},
+		{
 			"name": "Attribute",
 			"scope": [
 				"meta.attribute"

@@ -1,3 +1,7 @@
+*.vsix
+
 # windows
 desktop.ini
-*.vsix
+
+# Mac
+.DS_Store
