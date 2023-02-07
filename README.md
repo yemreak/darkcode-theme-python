@@ -52,29 +52,22 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 ## 👁‍🗨 Previews
 
-### 🌘 DarkCode
-
-![](.github/assets/darkcode.png)
-
-### 🌘 DarkCode+
-
-![](.github/assets/darkcode-plus.png)
 
 ### 🌘 DarkCode++
 
 ![](.github/assets/darkcode-plus-plus.png)
 
-### 🌑 DarkCode Contrast
-
-![](.github/assets/darkcod-contrast.png)
-
-### 🌚 DarkCode Contrast+
-
-![](.github/assets/darkcode-contrast-plus.png)
-
 ### 🌚 DarkCode Contrast++
 
 ![](.github/assets/darkcode-contrast-plus-plus.png)
+
+### 🌘 LigtCode++
+
+![](.github/assets/lightcode-plus-plus.png)
+
+### 🌚 LigtCode Contrast++
+
+![](.github/assets/lightcode-contrast-plus-plus.png)
 
 ## 🐛 Known Issue
 

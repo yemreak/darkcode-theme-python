@@ -1,12 +1,24 @@
 # ✨ Changelog
 
+## 🏷️ 4.4.1 (9 Feb 2023)
+
+- Light themes reforged
+
+## 🏷️ 4.4.0 (8 Feb 2023)
+
+- `Italic` support added
+- `Docstrings` color reforged
+
+![](.github/assets/4-4-0-italic.png)
+![](.github/assets/4-4-0docstring.png)
+
 ## 🏷  4.3.3 (27 Jul 2022)
 
 - `Exception` are also had custom colors.
 
 ![4.3.2 vs 4.3.1](.github/assets/4.3.2-vs-4.3.1.png)
 
-> 💁‍♂️ Light theme olsa updated.
+> 💁‍♂️ Light theme also updated.
 
 ## 🚀 4.3.1 (12/06/2020)
 
