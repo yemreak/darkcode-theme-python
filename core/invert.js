@@ -6,8 +6,8 @@ const postfixes = ["code", "-settings"];
 
 
 for (const postfix of ["code", "-settings"]) {
-    const sourceFilePath = join(`core/dark${postfix}.json`);
-    const destinationFilePath = join(`core/light${postfix}.json`);
+    const sourceFilePath = join(`dark${postfix}.json`);
+    const destinationFilePath = join(`light${postfix}.json`);
 
     const sourceLines = readFileSync(sourceFilePath, 'utf-8').split('\n');
     const destinationLines = sourceLines.map(line => {

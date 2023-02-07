@@ -7,7 +7,6 @@
 	"engines": {
 		"vscode": "^1.35.0"
 	},
-	"type": "module",
 	"icon": "icon.png",
 	"license": "Apache",
 	"categories": [
@@ -100,8 +99,5 @@
 				"path": "./themes/darkcode-contrast-plus-plus.json"
 			}
 		]
-	},
-	"dependencies": {
-		"invert-color": "^2.0.0"
 	}
 }
