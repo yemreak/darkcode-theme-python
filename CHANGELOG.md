@@ -1,5 +1,9 @@
 # ✨ Changelog
 
+# 🐛 4.4.2 (9 Feb 2023)
+
+- Hot fixes for updation bug
+
 ## 🏷️ 4.4.1 (9 Feb 2023)
 
 - Light themes reforged
