@@ -1,6 +1,12 @@
 # ✨ Changelog
 
-# 🐛 4.4.2 (9 Feb 2023)
+## ✨ 4.5.0 (3 Apr 2023)
+
+- More smoother light themes
+
+![4.5.0](.github/assets/4.5.0.png)
+
+## 🐛 4.4.2 (9 Feb 2023)
 
 - Hot fixes for updation bug
 

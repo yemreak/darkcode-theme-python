@@ -4,21 +4,22 @@
 
 ## 🚀 Generating More Themes
 
-- Light themes are generated with `invert.js` (from dark themes and ythemecreator)
-- 💁‍♂️ You can use [YThemeCreator](https://github.com/yedhrab/YThemeCreator) to generate more [DarkCode Themes](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
-- 📦 YThemeCreator is part of [`ypackage`](https://github.com/yedhrab/YPackage) python package
+- 👪 You can create your own DarkCode theme family
+- 💁‍♂️ You can use `YThemeCretor` to generate more [DarkCode Themes](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
+- 📦 `YThemeCreator` is part of [`ypackage`](https://github.com/yedhrab/YPackage) python package
 - ⏬ Downlaod [`ypackage`](https://github.com/yedhrab/YPackage) with `pip install ypackage`
 - 🐣 After installation, just use `ythemecreator -h` command to more usage options
 - ⭐ For ex: `ythemecreator ./core/dark-settings.json` to create darkcode themes
 - ⭐ For ex: `ythemecreator ./core/light-settings.json` to create light themes
 
-> 👪 Create your own DarkCode theme family
+> 💁‍♂️ Light themes are generated with `invert.js` (from dark themes and ythemecreator)
 
 ## 📦 Packaging Extension
 
 - Install Nodejs
 - Install vsce with `npm install -g vsce` command
-- Create `.vsix` with `vsce package` command
+- Generate extension (`.vsix`) with `vsce package` command
+- If u want to publish, use `vsce publish` command without packaging
 
 ## 👨‍💻 Color System
 

@@ -1,8 +1,8 @@
 {
 	"name": "darkcode-theme-adopted-python-and-markdown",
-	"displayName": "🖤 DarkCode & 🤍 LightCode Theme",
-	"description": "༼ つ ◕_◕ ༽つ Dark & Light theme for cool coders 👩‍💻👨‍💻",
-	"version": "4.4.2",
+	"displayName": "🖤 DarkCode & LightCode Theme 🤍",
+	"description": "༼ つ ◕_◕ ༽つ Themes for cool coders",
+	"version": "4.5.0",
 	"publisher": "yedhrab",
 	"engines": {
 		"vscode": "^1.35.0"
