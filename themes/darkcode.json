@@ -2,7 +2,7 @@
 	// "$schema": "vscode://schemas/color-theme",
 	"name": "DarkCode",
 	"type": "dark",
-	"author": "yedhrab",
+	"author": "yemreak",
 	"colors": {
 		"activityBar.activeBorder": "#ffc000", // En sağdaki çizgi
 		"activityBar.background": "#1c2022", // En soldaki panel

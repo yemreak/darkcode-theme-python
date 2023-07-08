@@ -2,7 +2,7 @@
 	"name": "darkcode-theme-adopted-python-and-markdown",
 	"displayName": "🖤 DarkCode & LightCode Theme 🤍",
 	"description": "༼ つ ◕_◕ ༽つ Themes for cool coders",
-	"version": "4.5.0",
+	"version": "4.5.1",
 	"publisher": "yedhrab",
 	"engines": {
 		"vscode": "^1.35.0"
@@ -34,7 +34,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yedhrab/darkcode-theme"
+		"url": "https://github.com/yemreak/darkcode-theme"
 	},
 	"contributes": {
 		"themes": [

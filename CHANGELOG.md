@@ -1,5 +1,9 @@
 # ✨ Changelog
 
+## ✨ 4.5.1 (8 July 2023)
+
+- More ligheter light code theme
+
 ## ✨ 4.5.0 (3 Apr 2023)
 
 - More smoother light themes
@@ -113,9 +117,9 @@
 
 👨‍🔧 Color improvements and error fixing
 
-- 📈 More effective [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator)
+- 📈 More effective [👨‍🔬 YThemeCreator](https://github.com/yemreak/YThemeCreator)
 - 📋 Color list improved
-- 👪 Contributing via [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) is easier than before
+- 👪 Contributing via [👨‍🔬 YThemeCreator](https://github.com/yemreak/YThemeCreator) is easier than before
 
 ##  🏷️ 4.1.2 \(12.02.2019\)
 
@@ -123,7 +127,7 @@
 
 - 👨‍🎨 Button colors renewed
 - 👨‍🔧 DarkCode - DarkCode Contrast color conversion errors fixed
-- [👨‍🔬 YThemeCreator](https://github.com/yedhrab/YThemeCreator) guide added
+- [👨‍🔬 YThemeCreator](https://github.com/yemreak/YThemeCreator) guide added
 
 > 👪 Contributing is easier than before
 

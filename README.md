@@ -1,12 +1,12 @@
 # 🖤 DarkCode Theme <!-- omit in toc -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/darkcode-theme)
+![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/darkcode-theme)
 
 つ ◕_◕ つ Dark theme for cool coders
 
 ## 🙋‍♂️ What's It <!-- omit in toc -->
 
-For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/DarkCode-Theme/blob/master/CHANGELOG.md) file in [🖤 DarkCode Theme](https://github.com/yedhrab/DarkCode-Theme) repo.
+For more detail 👀 take a look [✨ Changelog](https://github.com/yemreak/DarkCode-Theme/blob/master/CHANGELOG.md) file in [🖤 DarkCode Theme](https://github.com/yemreak/DarkCode-Theme) repo.
 
 - 🚀 Up to date
 - 🖤 Well tuned Dark Theme
@@ -22,7 +22,7 @@ For more detail 👀 take a look [✨ Changelog](https://github.com/yedhrab/Dark
 
 - 🐍 Python
 - 📑 Markdown
-- 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yedhrab.yautohotkey)
+- 👨‍💻 AutoHotkey ~ [YAutoHotkey](https://marketplace.visualstudio.com/items?itemName=yemreak.yautohotkey)
 - ☕ Java
 - ⚛️ React
 
@@ -75,7 +75,7 @@ This issue happen caused by Python tokenizer fault, not theme error 🙂
 
 ## 💖 Support & Contanct
 
-​[​![Github](.github/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=DarkCode%20Theme%20%7C%20GitHub)​
+​[​![Github](.github/assets/github_32px.png)​](https://github.com/yemreak) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=DarkCode%20Theme%20%7C%20GitHub)​
 
 ​[​![Patreon](.github/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
 
